@@ -1,0 +1,1273 @@
+No,nama_makanan,kategori,berat_gr,kalori,protein
+1,Sayur Nangka Goreng,nabati,100,97.58,3.06
+1,Sayur Nangka Goreng,nabati,200,168.36,11.8
+1,Sayur Nangka Goreng,nabati,300,161.12,21.23
+2,Terong Sayur,nabati,100,113.44,4.46
+2,Terong Sayur,nabati,200,122.54,9.83
+2,Terong Sayur,nabati,300,332.86,16.56
+3,Tumis Kangkung Balado,nabati,100,96.78,3.61
+3,Tumis Kangkung Balado,nabati,200,173.62,16.71
+3,Tumis Kangkung Balado,nabati,300,253.3,26.31
+4,Seledri Goreng,nabati,100,75.83,9.74
+4,Seledri Goreng,nabati,200,123.48,16.08
+4,Seledri Goreng,nabati,300,422.31,15.68
+5,Lontong Sayur Balado,nabati,100,70.67,7.61
+5,Lontong Sayur Balado,nabati,200,285.96,12.71
+5,Lontong Sayur Balado,nabati,300,424.7,29.6
+6,Sayur Bayam Balado,nabati,100,117.13,7.81
+6,Sayur Bayam Balado,nabati,200,293.05,12.4
+6,Sayur Bayam Balado,nabati,300,174.07,14.69
+7,Kacang Merah Rebus,nabati,100,62.65,3.49
+7,Kacang Merah Rebus,nabati,200,293.0,18.25
+7,Kacang Merah Rebus,nabati,300,243.52,21.46
+8,Tahu Isi Tumis,nabati,100,71.9,6.96
+8,Tahu Isi Tumis,nabati,200,244.8,18.27
+8,Tahu Isi Tumis,nabati,300,154.11,29.91
+9,Toge Kuah,nabati,100,95.23,3.3
+9,Toge Kuah,nabati,200,182.47,11.15
+9,Toge Kuah,nabati,300,409.31,6.38
+10,Bakwan Jagung Goreng,nabati,100,99.68,3.42
+10,Bakwan Jagung Goreng,nabati,200,260.63,16.76
+10,Bakwan Jagung Goreng,nabati,300,431.68,6.31
+11,Daun Singkong Goreng,nabati,100,72.74000000000001,7.59
+11,Daun Singkong Goreng,nabati,200,198.45,10.86
+11,Daun Singkong Goreng,nabati,300,286.8,23.41
+12,Tahu Isi Bening,nabati,100,87.88,7.92
+12,Tahu Isi Bening,nabati,200,191.93,19.6
+12,Tahu Isi Bening,nabati,300,407.9,26.68
+13,Sawi Hijau Tumis,nabati,100,73.87,8.34
+13,Sawi Hijau Tumis,nabati,200,132.92,10.77
+13,Sawi Hijau Tumis,nabati,300,272.82,15.04
+14,Tumis Terong Rebus,nabati,100,91.2,7.75
+14,Tumis Terong Rebus,nabati,200,145.83,17.9
+14,Tumis Terong Rebus,nabati,300,260.36,12.96
+15,Sambal Goreng Kentang Kuah,nabati,100,96.34,7.27
+15,Sambal Goreng Kentang Kuah,nabati,200,110.38,8.8
+15,Sambal Goreng Kentang Kuah,nabati,300,282.88,15.87
+16,Labu Siam Kuah,nabati,100,133.17,2.51
+16,Labu Siam Kuah,nabati,200,268.09,13.81
+16,Labu Siam Kuah,nabati,300,164.58,7.31
+17,Pecel Kuah,nabati,100,102.95,6.92
+17,Pecel Kuah,nabati,200,251.12,5.77
+17,Pecel Kuah,nabati,300,195.04,18.89
+18,Gudeg Sayur,nabati,100,93.25,8.87
+18,Gudeg Sayur,nabati,200,226.59,7.51
+18,Gudeg Sayur,nabati,300,350.49,18.8
+19,Daun Bawang Bening,nabati,100,75.95,9.33
+19,Daun Bawang Bening,nabati,200,140.17,10.46
+19,Daun Bawang Bening,nabati,300,258.41,25.29
+20,Urap Sayur Goreng,nabati,100,86.53,2.88
+20,Urap Sayur Goreng,nabati,200,105.44,13.51
+20,Urap Sayur Goreng,nabati,300,418.63,19.34
+21,Sayur Asem Santan,nabati,100,139.08,4.65
+21,Sayur Asem Santan,nabati,200,211.01,17.44
+21,Sayur Asem Santan,nabati,300,199.26,7.75
+22,Toge Rebus,nabati,100,95.03,6.16
+22,Toge Rebus,nabati,200,258.94,5.38
+22,Toge Rebus,nabati,300,222.86,22.88
+23,Kubis Goreng,nabati,100,117.95,9.09
+23,Kubis Goreng,nabati,200,147.19,6.88
+23,Kubis Goreng,nabati,300,265.86,24.32
+24,Lontong Sayur Kuah,nabati,100,98.63,4.13
+24,Lontong Sayur Kuah,nabati,200,157.8,10.53
+24,Lontong Sayur Kuah,nabati,300,376.91,23.91
+25,Keripik Bayam Balado,nabati,100,134.74,4.26
+25,Keripik Bayam Balado,nabati,200,291.77,7.15
+25,Keripik Bayam Balado,nabati,300,197.92,10.74
+26,Pakcoy Balado,nabati,100,90.65,6.44
+26,Pakcoy Balado,nabati,200,247.9,17.04
+26,Pakcoy Balado,nabati,300,202.19,7.2
+27,Terong Rebus,nabati,100,83.74,3.58
+27,Terong Rebus,nabati,200,185.55,18.59
+27,Terong Rebus,nabati,300,187.47,19.86
+28,Pakcoy Goreng,nabati,100,62.41,2.44
+28,Pakcoy Goreng,nabati,200,286.8,8.57
+28,Pakcoy Goreng,nabati,300,343.41,9.89
+29,Tahu Isi Santan,nabati,100,101.5,3.86
+29,Tahu Isi Santan,nabati,200,220.37,13.41
+29,Tahu Isi Santan,nabati,300,235.83,13.39
+30,Daun Kelor Tumis,nabati,100,63.24,3.15
+30,Daun Kelor Tumis,nabati,200,130.58,8.73
+30,Daun Kelor Tumis,nabati,300,309.13,14.9
+31,Daun Singkong Sayur,nabati,100,90.38,8.4
+31,Daun Singkong Sayur,nabati,200,177.28,19.04
+31,Daun Singkong Sayur,nabati,300,268.11,21.54
+32,Bayam Rebus,nabati,100,111.33,6.66
+32,Bayam Rebus,nabati,200,122.8,18.85
+32,Bayam Rebus,nabati,300,309.88,9.79
+33,Pecel Goreng,nabati,100,125.96,9.22
+33,Pecel Goreng,nabati,200,249.43,18.71
+33,Pecel Goreng,nabati,300,351.25,28.63
+34,Daun Kelor Kuah,nabati,100,84.07,7.45
+34,Daun Kelor Kuah,nabati,200,168.56,14.64
+34,Daun Kelor Kuah,nabati,300,397.3,15.82
+35,Tumis Pare Tumis,nabati,100,148.59,4.17
+35,Tumis Pare Tumis,nabati,200,296.65,4.11
+35,Tumis Pare Tumis,nabati,300,271.47,8.43
+36,Tempe Goreng Santan,nabati,100,118.94,5.96
+36,Tempe Goreng Santan,nabati,200,125.72,6.87
+36,Tempe Goreng Santan,nabati,300,198.92,23.54
+37,Gado-Gado Rebus,nabati,100,99.8,5.32
+37,Gado-Gado Rebus,nabati,200,112.38,17.26
+37,Gado-Gado Rebus,nabati,300,359.17,24.11
+38,Daun Kelor Balado,nabati,100,101.54,3.17
+38,Daun Kelor Balado,nabati,200,140.38,9.47
+38,Daun Kelor Balado,nabati,300,343.89,17.59
+39,Bakwan Jagung Sayur,nabati,100,67.68,3.11
+39,Bakwan Jagung Sayur,nabati,200,190.6,19.57
+39,Bakwan Jagung Sayur,nabati,300,199.1,28.09
+40,Kacang Hijau Santan,nabati,100,105.52,8.27
+40,Kacang Hijau Santan,nabati,200,160.0,11.79
+40,Kacang Hijau Santan,nabati,300,217.58,13.96
+41,Labu Siam Santan,nabati,100,82.84,5.34
+41,Labu Siam Santan,nabati,200,178.81,4.26
+41,Labu Siam Santan,nabati,300,374.38,20.93
+42,Tumis Buncis Sayur,nabati,100,92.45,5.33
+42,Tumis Buncis Sayur,nabati,200,213.93,16.45
+42,Tumis Buncis Sayur,nabati,300,432.43,13.41
+43,Oyong Kuah,nabati,100,68.52000000000001,4.5
+43,Oyong Kuah,nabati,200,158.12,6.4
+43,Oyong Kuah,nabati,300,161.26,26.24
+44,Perkedel Kentang Sayur,nabati,100,144.44,9.32
+44,Perkedel Kentang Sayur,nabati,200,291.02,10.94
+44,Perkedel Kentang Sayur,nabati,300,272.83,28.08
+45,Talas Bening,nabati,100,99.18,8.33
+45,Talas Bening,nabati,200,239.15,5.43
+45,Talas Bening,nabati,300,219.6,25.78
+46,Tahu Isi Goreng,nabati,100,131.37,5.9
+46,Tahu Isi Goreng,nabati,200,103.23,8.4
+46,Tahu Isi Goreng,nabati,300,208.7,27.76
+47,Urap Sayur Tumis,nabati,100,98.85,6.43
+47,Urap Sayur Tumis,nabati,200,126.4,14.73
+47,Urap Sayur Tumis,nabati,300,157.14,22.33
+48,Gudeg Balado,nabati,100,72.61,2.99
+48,Gudeg Balado,nabati,200,228.49,11.68
+48,Gudeg Balado,nabati,300,184.29,14.21
+49,Sawi Hijau Rebus,nabati,100,116.94,5.19
+49,Sawi Hijau Rebus,nabati,200,109.35,12.36
+49,Sawi Hijau Rebus,nabati,300,398.59,6.55
+50,Kacang Merah Bening,nabati,100,114.45,8.79
+50,Kacang Merah Bening,nabati,200,279.14,10.52
+50,Kacang Merah Bening,nabati,300,173.31,18.5
+51,Urap Sayur Santan,nabati,100,143.7,4.81
+51,Urap Sayur Santan,nabati,200,229.27,15.44
+51,Urap Sayur Santan,nabati,300,288.32,16.93
+52,Pecel Bening,nabati,100,66.69,3.45
+52,Pecel Bening,nabati,200,138.68,9.8
+52,Pecel Bening,nabati,300,213.78,15.01
+53,Petai Santan,nabati,100,85.57,8.31
+53,Petai Santan,nabati,200,129.41,9.47
+53,Petai Santan,nabati,300,308.23,19.11
+54,Kentang Santan,nabati,100,129.91,2.73
+54,Kentang Santan,nabati,200,113.48,14.31
+54,Kentang Santan,nabati,300,238.0,6.5
+55,Sayur Bayam Sayur,nabati,100,113.95,2.58
+55,Sayur Bayam Sayur,nabati,200,199.77,6.46
+55,Sayur Bayam Sayur,nabati,300,305.95,25.93
+56,Lontong Sayur Goreng,nabati,100,121.14,2.72
+56,Lontong Sayur Goreng,nabati,200,298.97,13.24
+56,Lontong Sayur Goreng,nabati,300,179.26,12.53
+57,Sayur Labu Balado,nabati,100,89.09,4.52
+57,Sayur Labu Balado,nabati,200,280.08,13.46
+57,Sayur Labu Balado,nabati,300,279.25,29.86
+58,Tempe Goreng Balado,nabati,100,140.62,7.78
+58,Tempe Goreng Balado,nabati,200,288.27,15.0
+58,Tempe Goreng Balado,nabati,300,210.43,22.4
+59,Kubis Rebus,nabati,100,110.76,7.27
+59,Kubis Rebus,nabati,200,236.02,5.47
+59,Kubis Rebus,nabati,300,200.29,19.15
+60,Labu Siam Balado,nabati,100,113.44,4.91
+60,Labu Siam Balado,nabati,200,136.24,5.95
+60,Labu Siam Balado,nabati,300,247.08,28.54
+61,Kacang Hijau Tumis,nabati,100,82.05,4.04
+61,Kacang Hijau Tumis,nabati,200,227.36,7.9
+61,Kacang Hijau Tumis,nabati,300,293.53,18.5
+62,Sambal Goreng Kentang Balado,nabati,100,86.75,3.32
+62,Sambal Goreng Kentang Balado,nabati,200,176.51,9.44
+62,Sambal Goreng Kentang Balado,nabati,300,381.8,22.12
+63,Oseng Tempe Bening,nabati,100,71.86,5.02
+63,Oseng Tempe Bening,nabati,200,190.89,15.83
+63,Oseng Tempe Bening,nabati,300,331.98,15.0
+64,Tumis Pare Balado,nabati,100,72.09,3.64
+64,Tumis Pare Balado,nabati,200,105.24,17.73
+64,Tumis Pare Balado,nabati,300,259.33,21.26
+65,Seledri Kuah,nabati,100,103.78,2.98
+65,Seledri Kuah,nabati,200,125.4,5.38
+65,Seledri Kuah,nabati,300,407.1,29.69
+66,Kacang Panjang Kuah,nabati,100,67.27000000000001,4.01
+66,Kacang Panjang Kuah,nabati,200,267.64,10.14
+66,Kacang Panjang Kuah,nabati,300,416.34,29.33
+67,Tumis Pare Sayur,nabati,100,100.13,2.69
+67,Tumis Pare Sayur,nabati,200,103.45,16.31
+67,Tumis Pare Sayur,nabati,300,276.09,21.97
+68,Tumis Pare Kuah,nabati,100,133.79,6.09
+68,Tumis Pare Kuah,nabati,200,291.71,9.26
+68,Tumis Pare Kuah,nabati,300,225.7,24.64
+69,Jengkol Bening,nabati,100,90.28,2.78
+69,Jengkol Bening,nabati,200,276.1,17.38
+69,Jengkol Bening,nabati,300,422.06,21.09
+70,Kangkung Kuah,nabati,100,131.02,3.84
+70,Kangkung Kuah,nabati,200,255.35,9.05
+70,Kangkung Kuah,nabati,300,193.15,16.18
+71,Perkedel Kentang Kuah,nabati,100,125.14,3.55
+71,Perkedel Kentang Kuah,nabati,200,296.18,5.29
+71,Perkedel Kentang Kuah,nabati,300,346.11,26.55
+72,Kacang Merah Goreng,nabati,100,148.36,9.59
+72,Kacang Merah Goreng,nabati,200,248.34,7.81
+72,Kacang Merah Goreng,nabati,300,415.76,8.47
+73,Kangkung Santan,nabati,100,104.69,2.38
+73,Kangkung Santan,nabati,200,298.67,7.62
+73,Kangkung Santan,nabati,300,201.31,12.74
+74,Sayur Asem Kuah,nabati,100,97.17,7.56
+74,Sayur Asem Kuah,nabati,200,104.48,9.61
+74,Sayur Asem Kuah,nabati,300,196.11,24.34
+75,Sayur Lodeh Santan,nabati,100,108.64,9.58
+75,Sayur Lodeh Santan,nabati,200,161.19,9.97
+75,Sayur Lodeh Santan,nabati,300,332.22,15.17
+76,Perkedel Kentang Tumis,nabati,100,94.1,3.01
+76,Perkedel Kentang Tumis,nabati,200,137.95,14.08
+76,Perkedel Kentang Tumis,nabati,300,186.57,8.82
+77,Tempe Goreng Kuah,nabati,100,124.92,6.62
+77,Tempe Goreng Kuah,nabati,200,136.59,4.76
+77,Tempe Goreng Kuah,nabati,300,412.02,10.95
+78,Sambal Goreng Kentang Goreng,nabati,100,98.99,7.33
+78,Sambal Goreng Kentang Goreng,nabati,200,191.89,15.71
+78,Sambal Goreng Kentang Goreng,nabati,300,259.89,11.13
+79,Tumis Kangkung Santan,nabati,100,90.3,6.93
+79,Tumis Kangkung Santan,nabati,200,248.55,12.05
+79,Tumis Kangkung Santan,nabati,300,351.75,25.11
+80,Keripik Bayam Rebus,nabati,100,144.0,2.84
+80,Keripik Bayam Rebus,nabati,200,278.97,14.03
+80,Keripik Bayam Rebus,nabati,300,306.13,19.58
+81,Tempe Goreng Bening,nabati,100,101.85,7.61
+81,Tempe Goreng Bening,nabati,200,266.71,6.08
+81,Tempe Goreng Bening,nabati,300,232.7,28.08
+82,Tumis Terong Goreng,nabati,100,139.05,7.42
+82,Tumis Terong Goreng,nabati,200,258.73,15.51
+82,Tumis Terong Goreng,nabati,300,298.78,12.48
+83,Sayur Nangka Santan,nabati,100,94.5,5.82
+83,Sayur Nangka Santan,nabati,200,205.59,11.85
+83,Sayur Nangka Santan,nabati,300,338.89,15.33
+84,Daun Bawang Sayur,nabati,100,102.56,2.73
+84,Daun Bawang Sayur,nabati,200,213.67,4.56
+84,Daun Bawang Sayur,nabati,300,387.91,25.11
+85,Wortel Goreng,nabati,100,77.9,5.11
+85,Wortel Goreng,nabati,200,245.21,17.17
+85,Wortel Goreng,nabati,300,273.97,12.59
+86,Sayur Nangka Sayur,nabati,100,84.98,3.77
+86,Sayur Nangka Sayur,nabati,200,242.87,6.6
+86,Sayur Nangka Sayur,nabati,300,354.44,17.94
+87,Keripik Bayam Sayur,nabati,100,124.38,5.96
+87,Keripik Bayam Sayur,nabati,200,111.45,17.05
+87,Keripik Bayam Sayur,nabati,300,376.41,6.82
+88,Keripik Singkong Goreng,nabati,100,119.09,7.52
+88,Keripik Singkong Goreng,nabati,200,191.47,7.85
+88,Keripik Singkong Goreng,nabati,300,219.18,18.96
+89,Sawi Putih Rebus,nabati,100,76.19,6.9
+89,Sawi Putih Rebus,nabati,200,299.25,8.92
+89,Sawi Putih Rebus,nabati,300,195.96,12.26
+90,Tempe Goreng Rebus,nabati,100,145.68,2.66
+90,Tempe Goreng Rebus,nabati,200,163.06,12.61
+90,Tempe Goreng Rebus,nabati,300,288.83,18.19
+91,Sambal Goreng Kentang Tumis,nabati,100,95.54,5.19
+91,Sambal Goreng Kentang Tumis,nabati,200,252.66,7.03
+91,Sambal Goreng Kentang Tumis,nabati,300,415.83,18.19
+92,Petai Goreng,nabati,100,113.09,9.95
+92,Petai Goreng,nabati,200,213.13,10.34
+92,Petai Goreng,nabati,300,424.11,14.1
+93,Sayur Bayam Tumis,nabati,100,124.23,7.94
+93,Sayur Bayam Tumis,nabati,200,142.67,6.54
+93,Sayur Bayam Tumis,nabati,300,235.3,10.88
+94,Sayur Bayam Bening,nabati,100,79.51,3.12
+94,Sayur Bayam Bening,nabati,200,269.77,13.41
+94,Sayur Bayam Bening,nabati,300,318.17,16.76
+95,Lontong Sayur Santan,nabati,100,146.38,5.23
+95,Lontong Sayur Santan,nabati,200,273.84,6.08
+95,Lontong Sayur Santan,nabati,300,177.97,7.35
+96,Kacang Panjang Sayur,nabati,100,121.95,7.38
+96,Kacang Panjang Sayur,nabati,200,150.88,12.01
+96,Kacang Panjang Sayur,nabati,300,432.8,15.77
+97,Pakcoy Rebus,nabati,100,89.61,5.14
+97,Pakcoy Rebus,nabati,200,188.76,11.69
+97,Pakcoy Rebus,nabati,300,285.9,20.01
+98,Daun Bawang Santan,nabati,100,101.59,6.18
+98,Daun Bawang Santan,nabati,200,246.75,16.95
+98,Daun Bawang Santan,nabati,300,394.4,11.45
+99,Tumis Terong Balado,nabati,100,79.27,4.72
+99,Tumis Terong Balado,nabati,200,115.3,8.15
+99,Tumis Terong Balado,nabati,300,243.41,16.94
+100,Sambal Goreng Kentang Rebus,nabati,100,90.88,3.1
+100,Sambal Goreng Kentang Rebus,nabati,200,118.31,18.48
+100,Sambal Goreng Kentang Rebus,nabati,300,389.35,25.0
+101,Terong Kuah,nabati,100,77.14,8.51
+101,Terong Kuah,nabati,200,250.27,15.14
+101,Terong Kuah,nabati,300,407.1,20.54
+102,Petai Bening,nabati,100,110.4,7.59
+102,Petai Bening,nabati,200,270.66,9.43
+102,Petai Bening,nabati,300,436.99,22.07
+103,Sayur Daun Singkong Sayur,nabati,100,103.79,4.96
+103,Sayur Daun Singkong Sayur,nabati,200,181.92,18.27
+103,Sayur Daun Singkong Sayur,nabati,300,387.69,15.82
+104,Tumis Buncis Rebus,nabati,100,108.81,8.33
+104,Tumis Buncis Rebus,nabati,200,226.07,10.93
+104,Tumis Buncis Rebus,nabati,300,445.04,28.7
+105,Kentang Kuah,nabati,100,62.34,8.02
+105,Kentang Kuah,nabati,200,152.02,16.2
+105,Kentang Kuah,nabati,300,159.28,6.85
+106,Sayur Asem Sayur,nabati,100,71.58,7.4
+106,Sayur Asem Sayur,nabati,200,142.84,16.61
+106,Sayur Asem Sayur,nabati,300,291.77,27.98
+107,Pecel Santan,nabati,100,77.8,5.72
+107,Pecel Santan,nabati,200,275.5,13.82
+107,Pecel Santan,nabati,300,365.15,8.57
+108,Wortel Rebus,nabati,100,71.00999999999999,4.64
+108,Wortel Rebus,nabati,200,245.59,11.65
+108,Wortel Rebus,nabati,300,201.55,8.54
+109,Sayur Labu Santan,nabati,100,110.88,4.01
+109,Sayur Labu Santan,nabati,200,197.66,5.07
+109,Sayur Labu Santan,nabati,300,351.85,27.15
+110,Kangkung Bening,nabati,100,126.21,5.34
+110,Kangkung Bening,nabati,200,154.47,16.02
+110,Kangkung Bening,nabati,300,444.9,8.25
+111,Labu Siam Tumis,nabati,100,97.99,7.75
+111,Labu Siam Tumis,nabati,200,228.8,16.96
+111,Labu Siam Tumis,nabati,300,405.48,8.4
+112,Sawi Hijau Kuah,nabati,100,69.03,7.76
+112,Sawi Hijau Kuah,nabati,200,144.85,12.75
+112,Sawi Hijau Kuah,nabati,300,261.83,23.4
+113,Sayur Lodeh Kuah,nabati,100,95.9,6.29
+113,Sayur Lodeh Kuah,nabati,200,167.37,9.76
+113,Sayur Lodeh Kuah,nabati,300,337.02,23.05
+114,Kacang Merah Balado,nabati,100,141.12,2.81
+114,Kacang Merah Balado,nabati,200,281.57,7.01
+114,Kacang Merah Balado,nabati,300,331.37,28.72
+115,Sawi Hijau Bening,nabati,100,140.97,6.88
+115,Sawi Hijau Bening,nabati,200,169.75,11.56
+115,Sawi Hijau Bening,nabati,300,442.39,7.07
+116,Toge Sayur,nabati,100,144.3,8.27
+116,Toge Sayur,nabati,200,218.14,6.53
+116,Toge Sayur,nabati,300,391.08,27.93
+117,Daun Singkong Bening,nabati,100,103.18,2.41
+117,Daun Singkong Bening,nabati,200,251.57,18.81
+117,Daun Singkong Bening,nabati,300,430.28,9.39
+118,Keripik Bayam Santan,nabati,100,88.53,2.61
+118,Keripik Bayam Santan,nabati,200,153.77,6.28
+118,Keripik Bayam Santan,nabati,300,306.79,21.86
+119,Tumis Toge Rebus,nabati,100,130.91,6.91
+119,Tumis Toge Rebus,nabati,200,197.11,7.31
+119,Tumis Toge Rebus,nabati,300,222.42,18.77
+120,Buncis Rebus,nabati,100,100.45,5.43
+120,Buncis Rebus,nabati,200,285.81,10.97
+120,Buncis Rebus,nabati,300,301.47,20.82
+121,Tumis Kangkung Bening,nabati,100,69.53999999999999,9.64
+121,Tumis Kangkung Bening,nabati,200,268.13,18.94
+121,Tumis Kangkung Bening,nabati,300,295.23,24.59
+122,Bakwan Jagung Balado,nabati,100,92.7,3.07
+122,Bakwan Jagung Balado,nabati,200,131.07,12.47
+122,Bakwan Jagung Balado,nabati,300,335.88,6.92
+123,Sambal Goreng Kentang Bening,nabati,100,143.13,6.15
+123,Sambal Goreng Kentang Bening,nabati,200,176.06,6.2
+123,Sambal Goreng Kentang Bening,nabati,300,354.83,12.29
+124,Tumis Toge Sayur,nabati,100,99.51,4.63
+124,Tumis Toge Sayur,nabati,200,237.42,14.27
+124,Tumis Toge Sayur,nabati,300,278.71,19.92
+125,Tumis Buncis Goreng,nabati,100,85.65,6.68
+125,Tumis Buncis Goreng,nabati,200,155.84,4.92
+125,Tumis Buncis Goreng,nabati,300,150.92,24.41
+126,Sayur Lodeh Goreng,nabati,100,94.41,8.46
+126,Sayur Lodeh Goreng,nabati,200,115.57,4.31
+126,Sayur Lodeh Goreng,nabati,300,293.27,24.96
+127,Oseng Tempe Kuah,nabati,100,144.33,7.61
+127,Oseng Tempe Kuah,nabati,200,178.51,5.71
+127,Oseng Tempe Kuah,nabati,300,253.76,21.14
+128,Daun Kelor Bening,nabati,100,85.7,7.55
+128,Daun Kelor Bening,nabati,200,273.83,19.59
+128,Daun Kelor Bening,nabati,300,261.23,18.16
+129,Keripik Singkong Kuah,nabati,100,90.34,2.45
+129,Keripik Singkong Kuah,nabati,200,220.36,19.53
+129,Keripik Singkong Kuah,nabati,300,364.78,28.12
+130,Daun Singkong Santan,nabati,100,98.89,9.95
+130,Daun Singkong Santan,nabati,200,175.94,5.83
+130,Daun Singkong Santan,nabati,300,255.16,21.27
+131,Singkong Sayur,nabati,100,81.2,5.55
+131,Singkong Sayur,nabati,200,299.56,4.51
+131,Singkong Sayur,nabati,300,158.17,22.12
+132,Oseng Tempe Santan,nabati,100,115.17,5.9
+132,Oseng Tempe Santan,nabati,200,294.52,16.4
+132,Oseng Tempe Santan,nabati,300,275.65,26.0
+133,Tumis Buncis Balado,nabati,100,92.53,4.62
+133,Tumis Buncis Balado,nabati,200,197.07,7.41
+133,Tumis Buncis Balado,nabati,300,278.58,25.66
+134,Sayur Lodeh Bening,nabati,100,99.29,5.15
+134,Sayur Lodeh Bening,nabati,200,109.77,6.82
+134,Sayur Lodeh Bening,nabati,300,298.79,10.42
+135,Kacang Panjang Goreng,nabati,100,125.58,3.75
+135,Kacang Panjang Goreng,nabati,200,240.99,5.69
+135,Kacang Panjang Goreng,nabati,300,318.93,29.36
+136,Tumis Toge Goreng,nabati,100,111.95,3.02
+136,Tumis Toge Goreng,nabati,200,269.41,4.51
+136,Tumis Toge Goreng,nabati,300,163.43,9.5
+137,Kacang Tanah Goreng,nabati,100,138.59,9.7
+137,Kacang Tanah Goreng,nabati,200,200.24,17.33
+137,Kacang Tanah Goreng,nabati,300,276.26,11.03
+138,Jengkol Balado,nabati,100,146.74,2.93
+138,Jengkol Balado,nabati,200,101.42,13.77
+138,Jengkol Balado,nabati,300,366.24,13.83
+139,Tempe Goreng Goreng,nabati,100,116.74,8.11
+139,Tempe Goreng Goreng,nabati,200,269.37,9.51
+139,Tempe Goreng Goreng,nabati,300,296.79,19.1
+140,Tumis Toge Tumis,nabati,100,122.29,5.63
+140,Tumis Toge Tumis,nabati,200,201.24,9.63
+140,Tumis Toge Tumis,nabati,300,203.32,26.08
+141,Jengkol Rebus,nabati,100,65.53999999999999,3.68
+141,Jengkol Rebus,nabati,200,235.15,6.07
+141,Jengkol Rebus,nabati,300,273.5,16.56
+142,Kentang Sayur,nabati,100,70.53,6.48
+142,Kentang Sayur,nabati,200,234.13,6.56
+142,Kentang Sayur,nabati,300,395.16,26.29
+143,Kubis Tumis,nabati,100,78.23,2.66
+143,Kubis Tumis,nabati,200,179.17,13.25
+143,Kubis Tumis,nabati,300,197.48,19.38
+144,Kentang Balado,nabati,100,111.45,3.1
+144,Kentang Balado,nabati,200,172.33,4.92
+144,Kentang Balado,nabati,300,332.15,8.88
+145,Petai Rebus,nabati,100,140.84,4.47
+145,Petai Rebus,nabati,200,176.35,10.68
+145,Petai Rebus,nabati,300,217.37,22.44
+146,Gudeg Rebus,nabati,100,93.31,2.01
+146,Gudeg Rebus,nabati,200,200.99,5.07
+146,Gudeg Rebus,nabati,300,249.84,7.32
+147,Tumis Pare Rebus,nabati,100,116.85,6.05
+147,Tumis Pare Rebus,nabati,200,197.3,10.73
+147,Tumis Pare Rebus,nabati,300,283.02,7.27
+148,Tumis Toge Bening,nabati,100,94.28,4.43
+148,Tumis Toge Bening,nabati,200,197.1,4.93
+148,Tumis Toge Bening,nabati,300,409.95,13.05
+149,Oseng Tempe Tumis,nabati,100,90.3,9.01
+149,Oseng Tempe Tumis,nabati,200,230.34,15.83
+149,Oseng Tempe Tumis,nabati,300,406.81,16.0
+150,Sawi Hijau Sayur,nabati,100,108.09,8.42
+150,Sawi Hijau Sayur,nabati,200,175.78,19.54
+150,Sawi Hijau Sayur,nabati,300,420.38,7.98
+151,Bayam Balado,nabati,100,126.39,4.1
+151,Bayam Balado,nabati,200,219.56,4.15
+151,Bayam Balado,nabati,300,240.78,10.28
+152,Daun Pepaya Tumis,nabati,100,96.63,2.73
+152,Daun Pepaya Tumis,nabati,200,103.54,7.8
+152,Daun Pepaya Tumis,nabati,300,411.92,8.79
+153,Singkong Bening,nabati,100,133.36,3.84
+153,Singkong Bening,nabati,200,267.18,17.22
+153,Singkong Bening,nabati,300,288.56,24.61
+154,Tumis Kangkung Rebus,nabati,100,82.82,9.57
+154,Tumis Kangkung Rebus,nabati,200,224.6,16.74
+154,Tumis Kangkung Rebus,nabati,300,343.86,28.95
+155,Wortel Kuah,nabati,100,96.14,2.17
+155,Wortel Kuah,nabati,200,291.76,6.07
+155,Wortel Kuah,nabati,300,350.31,20.75
+156,Gado-Gado Kuah,nabati,100,144.32,5.17
+156,Gado-Gado Kuah,nabati,200,255.54,9.67
+156,Gado-Gado Kuah,nabati,300,157.92,11.63
+157,Sawi Putih Tumis,nabati,100,95.41,8.1
+157,Sawi Putih Tumis,nabati,200,225.91,18.29
+157,Sawi Putih Tumis,nabati,300,416.7,29.34
+158,Daun Bawang Balado,nabati,100,128.05,9.71
+158,Daun Bawang Balado,nabati,200,114.54,5.09
+158,Daun Bawang Balado,nabati,300,233.36,27.44
+159,Kacang Hijau Rebus,nabati,100,99.94,4.43
+159,Kacang Hijau Rebus,nabati,200,162.8,11.3
+159,Kacang Hijau Rebus,nabati,300,277.48,10.43
+160,Talas Goreng,nabati,100,131.05,3.35
+160,Talas Goreng,nabati,200,146.44,8.18
+160,Talas Goreng,nabati,300,313.5,10.18
+161,Talas Balado,nabati,100,139.59,9.56
+161,Talas Balado,nabati,200,106.86,11.81
+161,Talas Balado,nabati,300,305.75,9.74
+162,Singkong Kuah,nabati,100,131.24,6.93
+162,Singkong Kuah,nabati,200,169.53,5.15
+162,Singkong Kuah,nabati,300,219.19,24.7
+163,Kentang Rebus,nabati,100,75.78,7.61
+163,Kentang Rebus,nabati,200,265.75,6.85
+163,Kentang Rebus,nabati,300,240.41,28.57
+164,Petai Balado,nabati,100,146.46,5.24
+164,Petai Balado,nabati,200,215.18,18.11
+164,Petai Balado,nabati,300,327.05,17.93
+165,Jagung Manis Bening,nabati,100,127.75,8.41
+165,Jagung Manis Bening,nabati,200,169.27,7.5
+165,Jagung Manis Bening,nabati,300,395.21,27.07
+166,Bakwan Jagung Rebus,nabati,100,96.25,2.23
+166,Bakwan Jagung Rebus,nabati,200,225.47,10.5
+166,Bakwan Jagung Rebus,nabati,300,293.7,17.59
+167,Sayur Labu Bening,nabati,100,110.39,6.87
+167,Sayur Labu Bening,nabati,200,205.91,13.54
+167,Sayur Labu Bening,nabati,300,446.21,22.35
+168,Rebung Kuah,nabati,100,75.0,8.26
+168,Rebung Kuah,nabati,200,190.73,10.0
+168,Rebung Kuah,nabati,300,294.76,7.5
+169,Kacang Tanah Rebus,nabati,100,89.99,7.6
+169,Kacang Tanah Rebus,nabati,200,244.96,9.08
+169,Kacang Tanah Rebus,nabati,300,186.1,7.81
+170,Daun Pepaya Balado,nabati,100,136.42,8.05
+170,Daun Pepaya Balado,nabati,200,155.14,4.01
+170,Daun Pepaya Balado,nabati,300,252.93,18.61
+171,Kubis Santan,nabati,100,93.47,2.16
+171,Kubis Santan,nabati,200,131.75,17.82
+171,Kubis Santan,nabati,300,363.7,14.25
+172,Labu Siam Bening,nabati,100,127.18,6.73
+172,Labu Siam Bening,nabati,200,244.16,18.17
+172,Labu Siam Bening,nabati,300,187.57,24.78
+173,Sayur Lodeh Tumis,nabati,100,78.69,8.34
+173,Sayur Lodeh Tumis,nabati,200,149.22,18.6
+173,Sayur Lodeh Tumis,nabati,300,353.4,19.69
+174,Sambal Goreng Kentang Santan,nabati,100,110.6,2.78
+174,Sambal Goreng Kentang Santan,nabati,200,165.65,4.65
+174,Sambal Goreng Kentang Santan,nabati,300,275.42,18.67
+175,Oyong Tumis,nabati,100,144.56,8.0
+175,Oyong Tumis,nabati,200,252.9,14.79
+175,Oyong Tumis,nabati,300,378.39,22.21
+176,Kubis Bening,nabati,100,103.66,2.12
+176,Kubis Bening,nabati,200,293.7,19.97
+176,Kubis Bening,nabati,300,355.0,7.14
+177,Terong Tumis,nabati,100,125.45,8.61
+177,Terong Tumis,nabati,200,171.52,12.22
+177,Terong Tumis,nabati,300,185.1,18.29
+178,Kacang Panjang Balado,nabati,100,135.58,8.19
+178,Kacang Panjang Balado,nabati,200,140.6,9.87
+178,Kacang Panjang Balado,nabati,300,323.84,7.57
+179,Kacang Hijau Kuah,nabati,100,64.72,4.53
+179,Kacang Hijau Kuah,nabati,200,119.16,9.5
+179,Kacang Hijau Kuah,nabati,300,353.95,13.76
+180,Keripik Singkong Santan,nabati,100,122.67,6.08
+180,Keripik Singkong Santan,nabati,200,172.41,13.03
+180,Keripik Singkong Santan,nabati,300,444.53,22.56
+181,Gado-Gado Tumis,nabati,100,100.8,9.92
+181,Gado-Gado Tumis,nabati,200,263.33,18.96
+181,Gado-Gado Tumis,nabati,300,416.17,10.95
+182,Jagung Manis Rebus,nabati,100,103.85,5.66
+182,Jagung Manis Rebus,nabati,200,201.77,5.81
+182,Jagung Manis Rebus,nabati,300,410.51,7.89
+183,Tumis Pare Santan,nabati,100,66.83,4.06
+183,Tumis Pare Santan,nabati,200,164.69,8.7
+183,Tumis Pare Santan,nabati,300,405.01,24.48
+184,Lontong Sayur Sayur,nabati,100,133.06,2.57
+184,Lontong Sayur Sayur,nabati,200,119.98,17.28
+184,Lontong Sayur Sayur,nabati,300,403.56,22.19
+185,Tumis Toge Kuah,nabati,100,70.27000000000001,9.12
+185,Tumis Toge Kuah,nabati,200,281.49,5.0
+185,Tumis Toge Kuah,nabati,300,271.39,11.21
+186,Bayam Kuah,nabati,100,117.39,7.69
+186,Bayam Kuah,nabati,200,260.98,6.82
+186,Bayam Kuah,nabati,300,333.68,24.14
+187,Sayur Bayam Santan,nabati,100,108.44,3.55
+187,Sayur Bayam Santan,nabati,200,289.43,12.06
+187,Sayur Bayam Santan,nabati,300,295.54,29.43
+188,Kentang Bening,nabati,100,134.87,8.59
+188,Kentang Bening,nabati,200,296.84,12.54
+188,Kentang Bening,nabati,300,247.03,26.77
+189,Sayur Lodeh Balado,nabati,100,121.33,7.21
+189,Sayur Lodeh Balado,nabati,200,175.52,4.99
+189,Sayur Lodeh Balado,nabati,300,299.27,16.8
+190,Kacang Merah Sayur,nabati,100,118.88,3.17
+190,Kacang Merah Sayur,nabati,200,109.56,19.72
+190,Kacang Merah Sayur,nabati,300,162.49,27.27
+191,Pecel Sayur,nabati,100,114.27,3.76
+191,Pecel Sayur,nabati,200,133.71,19.66
+191,Pecel Sayur,nabati,300,163.64,17.66
+192,Sawi Putih Goreng,nabati,100,74.97,7.08
+192,Sawi Putih Goreng,nabati,200,241.5,19.63
+192,Sawi Putih Goreng,nabati,300,413.74,26.9
+193,Jengkol Kuah,nabati,100,124.81,6.56
+193,Jengkol Kuah,nabati,200,199.11,8.32
+193,Jengkol Kuah,nabati,300,253.99,13.5
+194,Sayur Daun Singkong Balado,nabati,100,94.08,7.08
+194,Sayur Daun Singkong Balado,nabati,200,148.56,14.56
+194,Sayur Daun Singkong Balado,nabati,300,201.09,9.88
+195,Keripik Singkong Bening,nabati,100,75.66,5.43
+195,Keripik Singkong Bening,nabati,200,125.83,17.93
+195,Keripik Singkong Bening,nabati,300,442.61,20.96
+196,Singkong Balado,nabati,100,98.34,9.12
+196,Singkong Balado,nabati,200,207.74,7.96
+196,Singkong Balado,nabati,300,200.72,19.63
+197,Daun Bawang Tumis,nabati,100,79.78,4.23
+197,Daun Bawang Tumis,nabati,200,243.39,18.12
+197,Daun Bawang Tumis,nabati,300,378.29,15.76
+198,Tumis Toge Balado,nabati,100,120.28,2.56
+198,Tumis Toge Balado,nabati,200,176.78,16.14
+198,Tumis Toge Balado,nabati,300,217.18,28.35
+199,Talas Sayur,nabati,100,83.67,2.97
+199,Talas Sayur,nabati,200,178.0,4.61
+199,Talas Sayur,nabati,300,270.07,26.33
+200,Kangkung Balado,nabati,100,76.49,9.34
+200,Kangkung Balado,nabati,200,175.66,8.14
+200,Kangkung Balado,nabati,300,378.28,10.49
+201,Wortel Santan,nabati,100,85.36,3.97
+201,Wortel Santan,nabati,200,184.44,11.01
+201,Wortel Santan,nabati,300,202.09,26.32
+202,Buncis Tumis,nabati,100,129.3,9.6
+202,Buncis Tumis,nabati,200,118.53,16.4
+202,Buncis Tumis,nabati,300,174.98,14.35
+203,Toge Goreng,nabati,100,65.41,9.28
+203,Toge Goreng,nabati,200,279.25,19.03
+203,Toge Goreng,nabati,300,259.18,28.57
+204,Tahu Isi Rebus,nabati,100,114.45,2.1
+204,Tahu Isi Rebus,nabati,200,141.03,9.88
+204,Tahu Isi Rebus,nabati,300,228.24,18.65
+205,Tumis Buncis Bening,nabati,100,76.31,9.04
+205,Tumis Buncis Bening,nabati,200,132.43,17.27
+205,Tumis Buncis Bening,nabati,300,230.08,9.13
+206,Keripik Singkong Tumis,nabati,100,132.15,4.31
+206,Keripik Singkong Tumis,nabati,200,228.95,8.21
+206,Keripik Singkong Tumis,nabati,300,372.26,23.67
+207,Keripik Bayam Bening,nabati,100,141.01,3.17
+207,Keripik Bayam Bening,nabati,200,298.83,9.91
+207,Keripik Bayam Bening,nabati,300,422.89,28.6
+208,Tumis Kangkung Kuah,nabati,100,145.81,4.03
+208,Tumis Kangkung Kuah,nabati,200,189.29,12.67
+208,Tumis Kangkung Kuah,nabati,300,198.39,29.19
+209,Jengkol Sayur,nabati,100,87.22,5.89
+209,Jengkol Sayur,nabati,200,266.78,7.63
+209,Jengkol Sayur,nabati,300,394.14,14.51
+210,Sawi Hijau Balado,nabati,100,138.13,8.55
+210,Sawi Hijau Balado,nabati,200,151.9,10.5
+210,Sawi Hijau Balado,nabati,300,313.58,29.74
+211,Rebung Bening,nabati,100,112.47,5.61
+211,Rebung Bening,nabati,200,290.29,11.62
+211,Rebung Bening,nabati,300,217.81,10.41
+212,Gado-Gado Goreng,nabati,100,100.64,2.98
+212,Gado-Gado Goreng,nabati,200,155.21,12.19
+212,Gado-Gado Goreng,nabati,300,382.35,26.62
+213,Buncis Balado,nabati,100,119.96,4.15
+213,Buncis Balado,nabati,200,193.15,19.14
+213,Buncis Balado,nabati,300,361.25,6.04
+214,Sayur Labu Kuah,nabati,100,148.59,2.7
+214,Sayur Labu Kuah,nabati,200,161.5,4.14
+214,Sayur Labu Kuah,nabati,300,347.84,16.92
+215,Pakcoy Kuah,nabati,100,92.87,3.56
+215,Pakcoy Kuah,nabati,200,138.41,14.92
+215,Pakcoy Kuah,nabati,300,322.15,15.66
+216,Singkong Santan,nabati,100,67.99000000000001,3.11
+216,Singkong Santan,nabati,200,204.0,10.35
+216,Singkong Santan,nabati,300,332.11,14.93
+217,Keripik Singkong Rebus,nabati,100,118.69,5.44
+217,Keripik Singkong Rebus,nabati,200,139.82,6.39
+217,Keripik Singkong Rebus,nabati,300,249.89,11.04
+218,Pakcoy Sayur,nabati,100,63.08,7.53
+218,Pakcoy Sayur,nabati,200,127.84,11.79
+218,Pakcoy Sayur,nabati,300,247.51,27.72
+219,Sayur Bayam Kuah,nabati,100,89.81,3.05
+219,Sayur Bayam Kuah,nabati,200,293.01,9.64
+219,Sayur Bayam Kuah,nabati,300,309.57,13.33
+220,Kangkung Sayur,nabati,100,65.37,2.03
+220,Kangkung Sayur,nabati,200,181.89,10.26
+220,Kangkung Sayur,nabati,300,299.36,13.91
+221,Bayam Bening,nabati,100,114.46,5.29
+221,Bayam Bening,nabati,200,166.03,15.27
+221,Bayam Bening,nabati,300,308.38,10.99
+222,Tumis Kangkung Tumis,nabati,100,134.97,6.68
+222,Tumis Kangkung Tumis,nabati,200,171.07,11.64
+222,Tumis Kangkung Tumis,nabati,300,214.38,13.09
+223,Sayur Labu Tumis,nabati,100,99.79,6.33
+223,Sayur Labu Tumis,nabati,200,215.01,15.61
+223,Sayur Labu Tumis,nabati,300,201.57,29.84
+224,Perkedel Kentang Santan,nabati,100,83.68,9.11
+224,Perkedel Kentang Santan,nabati,200,235.92,16.52
+224,Perkedel Kentang Santan,nabati,300,290.98,26.92
+225,Rebung Rebus,nabati,100,138.98,6.65
+225,Rebung Rebus,nabati,200,296.32,14.86
+225,Rebung Rebus,nabati,300,402.47,28.09
+226,Lontong Sayur Tumis,nabati,100,111.96,3.71
+226,Lontong Sayur Tumis,nabati,200,202.2,12.7
+226,Lontong Sayur Tumis,nabati,300,354.32,10.45
+227,Sayur Asem Tumis,nabati,100,112.06,6.79
+227,Sayur Asem Tumis,nabati,200,285.83,13.49
+227,Sayur Asem Tumis,nabati,300,325.5,10.37
+228,Daun Pepaya Kuah,nabati,100,129.9,9.31
+228,Daun Pepaya Kuah,nabati,200,285.28,17.17
+228,Daun Pepaya Kuah,nabati,300,188.19,26.9
+229,Kacang Hijau Bening,nabati,100,96.82,5.42
+229,Kacang Hijau Bening,nabati,200,283.33,8.2
+229,Kacang Hijau Bening,nabati,300,246.34,27.44
+230,Tahu Isi Balado,nabati,100,82.35,4.66
+230,Tahu Isi Balado,nabati,200,250.94,18.08
+230,Tahu Isi Balado,nabati,300,290.98,19.06
+231,Bayam Tumis,nabati,100,85.64,6.63
+231,Bayam Tumis,nabati,200,113.88,6.24
+231,Bayam Tumis,nabati,300,322.82,11.78
+232,Terong Santan,nabati,100,117.91,4.03
+232,Terong Santan,nabati,200,114.68,4.69
+232,Terong Santan,nabati,300,292.26,6.55
+233,Kacang Hijau Balado,nabati,100,110.45,6.44
+233,Kacang Hijau Balado,nabati,200,216.56,7.37
+233,Kacang Hijau Balado,nabati,300,387.95,13.57
+234,Sayur Asem Balado,nabati,100,82.9,9.32
+234,Sayur Asem Balado,nabati,200,183.34,17.23
+234,Sayur Asem Balado,nabati,300,426.64,13.99
+235,Kubis Sayur,nabati,100,95.71,9.1
+235,Kubis Sayur,nabati,200,127.71,15.95
+235,Kubis Sayur,nabati,300,425.96,27.49
+236,Kacang Panjang Bening,nabati,100,106.54,4.04
+236,Kacang Panjang Bening,nabati,200,187.68,5.05
+236,Kacang Panjang Bening,nabati,300,246.26,29.5
+237,Sayur Labu Rebus,nabati,100,90.62,7.55
+237,Sayur Labu Rebus,nabati,200,166.57,19.2
+237,Sayur Labu Rebus,nabati,300,182.88,6.5
+238,Oyong Sayur,nabati,100,70.72999999999999,6.43
+238,Oyong Sayur,nabati,200,270.95,11.92
+238,Oyong Sayur,nabati,300,385.01,10.13
+239,Sayur Daun Singkong Tumis,nabati,100,113.54,3.23
+239,Sayur Daun Singkong Tumis,nabati,200,288.52,9.75
+239,Sayur Daun Singkong Tumis,nabati,300,424.2,11.15
+240,Bakwan Jagung Santan,nabati,100,94.2,2.42
+240,Bakwan Jagung Santan,nabati,200,102.91,16.97
+240,Bakwan Jagung Santan,nabati,300,264.58,18.42
+241,Daun Singkong Balado,nabati,100,120.77,2.84
+241,Daun Singkong Balado,nabati,200,171.04,5.17
+241,Daun Singkong Balado,nabati,300,150.07,17.8
+242,Keripik Bayam Tumis,nabati,100,77.97,4.76
+242,Keripik Bayam Tumis,nabati,200,139.98,15.27
+242,Keripik Bayam Tumis,nabati,300,156.83,29.37
+243,Petai Kuah,nabati,100,90.66,8.87
+243,Petai Kuah,nabati,200,212.41,5.91
+243,Petai Kuah,nabati,300,188.42,25.01
+244,Urap Sayur Balado,nabati,100,95.83,5.76
+244,Urap Sayur Balado,nabati,200,264.59,11.18
+244,Urap Sayur Balado,nabati,300,190.16,14.53
+245,Sayur Nangka Bening,nabati,100,94.17,4.75
+245,Sayur Nangka Bening,nabati,200,173.34,13.9
+245,Sayur Nangka Bening,nabati,300,311.87,29.52
+246,Sawi Hijau Goreng,nabati,100,149.9,5.02
+246,Sawi Hijau Goreng,nabati,200,286.72,5.99
+246,Sawi Hijau Goreng,nabati,300,296.39,15.64
+247,Sawi Putih Kuah,nabati,100,114.29,6.46
+247,Sawi Putih Kuah,nabati,200,172.31,7.01
+247,Sawi Putih Kuah,nabati,300,348.25,29.19
+248,Labu Siam Rebus,nabati,100,148.11,2.31
+248,Labu Siam Rebus,nabati,200,231.12,19.42
+248,Labu Siam Rebus,nabati,300,318.17,20.15
+249,Keripik Bayam Kuah,nabati,100,82.29,3.64
+249,Keripik Bayam Kuah,nabati,200,139.08,13.28
+249,Keripik Bayam Kuah,nabati,300,443.07,25.46
+250,Tumis Buncis Kuah,nabati,100,100.32,3.31
+250,Tumis Buncis Kuah,nabati,200,191.6,4.48
+250,Tumis Buncis Kuah,nabati,300,181.24,11.0
+251,Capcay Sayur,nabati,100,91.53,5.36
+251,Capcay Sayur,nabati,200,139.38,16.94
+251,Capcay Sayur,nabati,300,231.8,11.92
+252,Tahu Isi Kuah,nabati,100,139.89,9.57
+252,Tahu Isi Kuah,nabati,200,264.86,4.79
+252,Tahu Isi Kuah,nabati,300,247.54,19.71
+253,Jengkol Goreng,nabati,100,120.63,9.13
+253,Jengkol Goreng,nabati,200,170.35,4.8
+253,Jengkol Goreng,nabati,300,421.29,19.8
+254,Gado-Gado Sayur,nabati,100,80.29,4.58
+254,Gado-Gado Sayur,nabati,200,276.38,5.87
+254,Gado-Gado Sayur,nabati,300,313.61,17.93
+255,Perkedel Kentang Goreng,nabati,100,149.53,7.91
+255,Perkedel Kentang Goreng,nabati,200,143.23,10.59
+255,Perkedel Kentang Goreng,nabati,300,234.32,21.33
+256,Capcay Santan,nabati,100,146.01,8.75
+256,Capcay Santan,nabati,200,213.92,10.61
+256,Capcay Santan,nabati,300,332.44,27.97
+257,Urap Sayur Sayur,nabati,100,82.43,4.22
+257,Urap Sayur Sayur,nabati,200,247.1,13.36
+257,Urap Sayur Sayur,nabati,300,428.53,18.94
+258,Oyong Balado,nabati,100,111.58,7.73
+258,Oyong Balado,nabati,200,242.05,5.54
+258,Oyong Balado,nabati,300,378.4,13.99
+259,Kacang Tanah Tumis,nabati,100,148.81,9.35
+259,Kacang Tanah Tumis,nabati,200,188.41,4.92
+259,Kacang Tanah Tumis,nabati,300,154.41,28.49
+260,Sayur Daun Singkong Bening,nabati,100,140.64,6.27
+260,Sayur Daun Singkong Bening,nabati,200,226.39,9.96
+260,Sayur Daun Singkong Bening,nabati,300,219.21,10.87
+261,Oyong Goreng,nabati,100,108.55,8.78
+261,Oyong Goreng,nabati,200,142.83,4.39
+261,Oyong Goreng,nabati,300,418.87,6.98
+262,Gudeg Tumis,nabati,100,77.73,5.37
+262,Gudeg Tumis,nabati,200,126.7,17.43
+262,Gudeg Tumis,nabati,300,252.57,22.12
+263,Kangkung Rebus,nabati,100,72.85,7.33
+263,Kangkung Rebus,nabati,200,156.8,5.56
+263,Kangkung Rebus,nabati,300,373.27,10.5
+264,Sawi Putih Bening,nabati,100,94.09,2.92
+264,Sawi Putih Bening,nabati,200,210.8,9.87
+264,Sawi Putih Bening,nabati,300,261.24,29.61
+265,Jengkol Tumis,nabati,100,141.93,6.21
+265,Jengkol Tumis,nabati,200,266.78,12.46
+265,Jengkol Tumis,nabati,300,290.95,27.94
+266,Keripik Singkong Sayur,nabati,100,140.27,8.22
+266,Keripik Singkong Sayur,nabati,200,104.01,16.85
+266,Keripik Singkong Sayur,nabati,300,368.14,13.86
+267,Kangkung Tumis,nabati,100,81.1,6.22
+267,Kangkung Tumis,nabati,200,218.8,10.18
+267,Kangkung Tumis,nabati,300,260.57,8.24
+268,Sayur Asem Rebus,nabati,100,92.22,2.91
+268,Sayur Asem Rebus,nabati,200,194.72,14.01
+268,Sayur Asem Rebus,nabati,300,263.63,26.63
+269,Bayam Goreng,nabati,100,92.0,5.11
+269,Bayam Goreng,nabati,200,140.99,17.55
+269,Bayam Goreng,nabati,300,396.71,28.26
+270,Toge Balado,nabati,100,95.34,7.71
+270,Toge Balado,nabati,200,181.1,10.8
+270,Toge Balado,nabati,300,162.32,27.52
+271,Tahu Isi Sayur,nabati,100,84.78,9.75
+271,Tahu Isi Sayur,nabati,200,148.38,11.76
+271,Tahu Isi Sayur,nabati,300,306.13,25.3
+272,Rebung Santan,nabati,100,94.87,8.12
+272,Rebung Santan,nabati,200,134.85,11.5
+272,Rebung Santan,nabati,300,250.06,17.51
+273,Buncis Kuah,nabati,100,68.41,5.28
+273,Buncis Kuah,nabati,200,291.62,5.07
+273,Buncis Kuah,nabati,300,214.26,12.22
+274,Tumis Terong Kuah,nabati,100,125.42,8.76
+274,Tumis Terong Kuah,nabati,200,195.93,4.65
+274,Tumis Terong Kuah,nabati,300,186.07,19.33
+275,Singkong Goreng,nabati,100,128.26,6.36
+275,Singkong Goreng,nabati,200,276.47,13.39
+275,Singkong Goreng,nabati,300,236.21,28.98
+276,Bakwan Jagung Bening,nabati,100,116.82,9.12
+276,Bakwan Jagung Bening,nabati,200,186.88,9.99
+276,Bakwan Jagung Bening,nabati,300,369.48,22.35
+277,Daun Pepaya Rebus,nabati,100,145.44,5.33
+277,Daun Pepaya Rebus,nabati,200,185.26,17.14
+277,Daun Pepaya Rebus,nabati,300,351.27,17.77
+278,Talas Tumis,nabati,100,96.93,8.22
+278,Talas Tumis,nabati,200,166.01,15.54
+278,Talas Tumis,nabati,300,439.58,14.9
+279,Kubis Kuah,nabati,100,138.78,4.55
+279,Kubis Kuah,nabati,200,123.37,14.26
+279,Kubis Kuah,nabati,300,399.15,17.16
+280,Daun Bawang Kuah,nabati,100,72.53999999999999,2.24
+280,Daun Bawang Kuah,nabati,200,118.37,7.47
+280,Daun Bawang Kuah,nabati,300,155.41,20.34
+281,Perkedel Kentang Rebus,nabati,100,101.95,9.23
+281,Perkedel Kentang Rebus,nabati,200,205.03,5.38
+281,Perkedel Kentang Rebus,nabati,300,271.55,6.83
+282,Buncis Bening,nabati,100,111.47,6.57
+282,Buncis Bening,nabati,200,200.61,7.81
+282,Buncis Bening,nabati,300,366.04,16.35
+283,Toge Bening,nabati,100,68.91,3.2
+283,Toge Bening,nabati,200,287.33,15.61
+283,Toge Bening,nabati,300,157.07,12.24
+284,Daun Pepaya Sayur,nabati,100,100.86,8.51
+284,Daun Pepaya Sayur,nabati,200,150.45,7.96
+284,Daun Pepaya Sayur,nabati,300,445.54,13.13
+285,Jagung Manis Kuah,nabati,100,144.07,8.22
+285,Jagung Manis Kuah,nabati,200,154.76,18.51
+285,Jagung Manis Kuah,nabati,300,172.9,22.73
+286,Perkedel Kentang Balado,nabati,100,94.87,5.67
+286,Perkedel Kentang Balado,nabati,200,110.7,5.95
+286,Perkedel Kentang Balado,nabati,300,330.69,28.81
+287,Buncis Goreng,nabati,100,74.1,7.17
+287,Buncis Goreng,nabati,200,215.6,12.61
+287,Buncis Goreng,nabati,300,383.51,11.6
+288,Sayur Nangka Balado,nabati,100,74.55,6.41
+288,Sayur Nangka Balado,nabati,200,238.69,9.08
+288,Sayur Nangka Balado,nabati,300,164.51,24.22
+289,Tumis Terong Tumis,nabati,100,63.41,3.39
+289,Tumis Terong Tumis,nabati,200,125.27,11.85
+289,Tumis Terong Tumis,nabati,300,216.35,13.38
+290,Oyong Santan,nabati,100,92.69,2.54
+290,Oyong Santan,nabati,200,234.49,8.05
+290,Oyong Santan,nabati,300,150.78,7.71
+291,Urap Sayur Rebus,nabati,100,118.55,5.0
+291,Urap Sayur Rebus,nabati,200,135.82,8.82
+291,Urap Sayur Rebus,nabati,300,331.41,16.94
+292,Seledri Bening,nabati,100,108.5,4.71
+292,Seledri Bening,nabati,200,245.41,16.61
+292,Seledri Bening,nabati,300,393.1,12.8
+293,Talas Kuah,nabati,100,83.83,6.74
+293,Talas Kuah,nabati,200,220.94,14.39
+293,Talas Kuah,nabati,300,331.71,11.57
+294,Sayur Nangka Rebus,nabati,100,87.97,4.94
+294,Sayur Nangka Rebus,nabati,200,269.41,9.78
+294,Sayur Nangka Rebus,nabati,300,237.65,18.37
+295,Kacang Merah Santan,nabati,100,64.28999999999999,7.03
+295,Kacang Merah Santan,nabati,200,194.97,16.17
+295,Kacang Merah Santan,nabati,300,369.18,24.88
+296,Capcay Bening,nabati,100,145.99,2.46
+296,Capcay Bening,nabati,200,223.71,5.61
+296,Capcay Bening,nabati,300,431.22,7.69
+297,Capcay Kuah,nabati,100,148.93,9.93
+297,Capcay Kuah,nabati,200,102.62,10.4
+297,Capcay Kuah,nabati,300,225.07,22.19
+298,Gudeg Kuah,nabati,100,83.42,9.17
+298,Gudeg Kuah,nabati,200,151.48,4.18
+298,Gudeg Kuah,nabati,300,305.43,20.21
+299,Sayur Labu Sayur,nabati,100,149.82,4.52
+299,Sayur Labu Sayur,nabati,200,118.67,6.47
+299,Sayur Labu Sayur,nabati,300,402.29,15.26
+300,Pakcoy Tumis,nabati,100,101.48,3.47
+300,Pakcoy Tumis,nabati,200,235.64,11.11
+300,Pakcoy Tumis,nabati,300,240.27,17.58
+301,Sayur Nangka Kuah,nabati,100,120.7,3.17
+301,Sayur Nangka Kuah,nabati,200,274.06,5.02
+301,Sayur Nangka Kuah,nabati,300,328.18,27.45
+302,Sawi Putih Santan,nabati,100,76.04,7.95
+302,Sawi Putih Santan,nabati,200,297.15,16.25
+302,Sawi Putih Santan,nabati,300,296.61,26.5
+303,Oseng Tempe Balado,nabati,100,89.07,8.15
+303,Oseng Tempe Balado,nabati,200,109.17,19.9
+303,Oseng Tempe Balado,nabati,300,258.76,11.0
+304,Gudeg Bening,nabati,100,117.27,3.64
+304,Gudeg Bening,nabati,200,157.22,11.57
+304,Gudeg Bening,nabati,300,441.98,18.01
+305,Toge Tumis,nabati,100,86.2,5.97
+305,Toge Tumis,nabati,200,259.46,6.84
+305,Toge Tumis,nabati,300,198.46,23.99
+306,Seledri Tumis,nabati,100,100.3,4.21
+306,Seledri Tumis,nabati,200,111.87,18.18
+306,Seledri Tumis,nabati,300,160.02,21.05
+307,Tumis Pare Goreng,nabati,100,95.24,2.55
+307,Tumis Pare Goreng,nabati,200,254.71,4.67
+307,Tumis Pare Goreng,nabati,300,255.62,15.84
+308,Oseng Tempe Rebus,nabati,100,80.26,2.58
+308,Oseng Tempe Rebus,nabati,200,188.02,18.73
+308,Oseng Tempe Rebus,nabati,300,175.84,27.08
+309,Daun Kelor Santan,nabati,100,88.58,4.44
+309,Daun Kelor Santan,nabati,200,117.01,12.85
+309,Daun Kelor Santan,nabati,300,414.42,26.3
+310,Seledri Santan,nabati,100,141.25,2.82
+310,Seledri Santan,nabati,200,239.22,4.38
+310,Seledri Santan,nabati,300,253.45,10.02
+311,Sayur Asem Bening,nabati,100,117.65,8.65
+311,Sayur Asem Bening,nabati,200,140.64,15.78
+311,Sayur Asem Bening,nabati,300,419.87,14.24
+312,Tumis Buncis Santan,nabati,100,98.72,7.97
+312,Tumis Buncis Santan,nabati,200,287.08,8.55
+312,Tumis Buncis Santan,nabati,300,282.19,26.68
+313,Gado-Gado Balado,nabati,100,72.08,8.61
+313,Gado-Gado Balado,nabati,200,167.54,8.25
+313,Gado-Gado Balado,nabati,300,426.91,18.09
+314,Bakwan Jagung Tumis,nabati,100,99.49,7.78
+314,Bakwan Jagung Tumis,nabati,200,233.43,6.77
+314,Bakwan Jagung Tumis,nabati,300,230.61,13.41
+315,Sayur Nangka Tumis,nabati,100,107.38,4.36
+315,Sayur Nangka Tumis,nabati,200,242.11,8.62
+315,Sayur Nangka Tumis,nabati,300,176.07,17.76
+316,Rebung Balado,nabati,100,98.54,6.51
+316,Rebung Balado,nabati,200,196.01,5.04
+316,Rebung Balado,nabati,300,229.62,15.15
+317,Daun Bawang Rebus,nabati,100,144.9,2.47
+317,Daun Bawang Rebus,nabati,200,162.6,9.55
+317,Daun Bawang Rebus,nabati,300,313.96,13.07
+318,Capcay Tumis,nabati,100,100.71,3.54
+318,Capcay Tumis,nabati,200,245.8,7.97
+318,Capcay Tumis,nabati,300,440.92,6.32
+319,Kacang Panjang Santan,nabati,100,144.01,8.39
+319,Kacang Panjang Santan,nabati,200,122.7,17.01
+319,Kacang Panjang Santan,nabati,300,287.29,29.75
+320,Sayur Daun Singkong Goreng,nabati,100,141.43,3.41
+320,Sayur Daun Singkong Goreng,nabati,200,188.57,8.21
+320,Sayur Daun Singkong Goreng,nabati,300,151.29,9.41
+321,Sayur Lodeh Rebus,nabati,100,106.49,2.2
+321,Sayur Lodeh Rebus,nabati,200,223.38,17.62
+321,Sayur Lodeh Rebus,nabati,300,237.42,12.03
+322,Kacang Merah Kuah,nabati,100,97.48,7.13
+322,Kacang Merah Kuah,nabati,200,167.15,6.64
+322,Kacang Merah Kuah,nabati,300,407.21,21.75
+323,Buncis Santan,nabati,100,96.39,3.01
+323,Buncis Santan,nabati,200,214.66,7.52
+323,Buncis Santan,nabati,300,248.11,7.07
+324,Jagung Manis Tumis,nabati,100,70.57,7.59
+324,Jagung Manis Tumis,nabati,200,132.12,12.52
+324,Jagung Manis Tumis,nabati,300,433.59,18.93
+325,Buncis Sayur,nabati,100,116.41,2.26
+325,Buncis Sayur,nabati,200,277.12,19.31
+325,Buncis Sayur,nabati,300,432.48,27.76
+326,Singkong Tumis,nabati,100,68.4,7.38
+326,Singkong Tumis,nabati,200,115.55,4.64
+326,Singkong Tumis,nabati,300,321.39,13.14
+327,Kacang Panjang Rebus,nabati,100,76.88,3.04
+327,Kacang Panjang Rebus,nabati,200,245.38,5.5
+327,Kacang Panjang Rebus,nabati,300,353.04,14.73
+328,Keripik Singkong Balado,nabati,100,76.1,2.76
+328,Keripik Singkong Balado,nabati,200,100.15,5.19
+328,Keripik Singkong Balado,nabati,300,373.88,28.71
+329,Pecel Tumis,nabati,100,100.64,5.36
+329,Pecel Tumis,nabati,200,143.13,15.41
+329,Pecel Tumis,nabati,300,277.64,19.3
+330,Daun Bawang Goreng,nabati,100,91.08,9.97
+330,Daun Bawang Goreng,nabati,200,128.37,18.73
+330,Daun Bawang Goreng,nabati,300,448.56,16.38
+331,Seledri Sayur,nabati,100,100.79,2.28
+331,Seledri Sayur,nabati,200,114.2,17.35
+331,Seledri Sayur,nabati,300,160.78,24.39
+332,Urap Sayur Bening,nabati,100,128.31,3.25
+332,Urap Sayur Bening,nabati,200,262.41,18.85
+332,Urap Sayur Bening,nabati,300,277.2,18.02
+333,Seledri Rebus,nabati,100,103.77,6.17
+333,Seledri Rebus,nabati,200,247.38,5.91
+333,Seledri Rebus,nabati,300,215.67,22.02
+334,Kacang Tanah Balado,nabati,100,96.91,9.62
+334,Kacang Tanah Balado,nabati,200,194.01,17.32
+334,Kacang Tanah Balado,nabati,300,435.74,8.0
+335,Pakcoy Santan,nabati,100,107.21,8.5
+335,Pakcoy Santan,nabati,200,283.92,12.98
+335,Pakcoy Santan,nabati,300,296.43,20.96
+336,Gado-Gado Santan,nabati,100,66.86,9.62
+336,Gado-Gado Santan,nabati,200,285.52,6.22
+336,Gado-Gado Santan,nabati,300,174.89,17.05
+337,Gudeg Santan,nabati,100,114.47,4.37
+337,Gudeg Santan,nabati,200,194.87,9.54
+337,Gudeg Santan,nabati,300,345.81,27.16
+338,Terong Bening,nabati,100,95.15,6.12
+338,Terong Bening,nabati,200,171.03,4.76
+338,Terong Bening,nabati,300,428.75,20.03
+339,Terong Balado,nabati,100,98.3,2.67
+339,Terong Balado,nabati,200,217.11,19.57
+339,Terong Balado,nabati,300,233.09,19.15
+340,Pecel Rebus,nabati,100,140.83,6.23
+340,Pecel Rebus,nabati,200,187.62,13.93
+340,Pecel Rebus,nabati,300,389.44,27.58
+341,Bayam Sayur,nabati,100,135.21,2.95
+341,Bayam Sayur,nabati,200,145.91,11.63
+341,Bayam Sayur,nabati,300,289.65,21.95
+342,Rebung Tumis,nabati,100,103.88,9.78
+342,Rebung Tumis,nabati,200,272.32,16.05
+342,Rebung Tumis,nabati,300,305.62,28.9
+343,Keripik Bayam Goreng,nabati,100,73.65,5.59
+343,Keripik Bayam Goreng,nabati,200,237.76,11.71
+343,Keripik Bayam Goreng,nabati,300,200.56,28.2
+344,Jagung Manis Santan,nabati,100,102.12,7.79
+344,Jagung Manis Santan,nabati,200,108.35,15.76
+344,Jagung Manis Santan,nabati,300,171.48,16.21
+345,Wortel Tumis,nabati,100,139.99,9.68
+345,Wortel Tumis,nabati,200,134.26,17.27
+345,Wortel Tumis,nabati,300,380.05,16.66
+346,Sayur Asem Goreng,nabati,100,87.41,4.26
+346,Sayur Asem Goreng,nabati,200,111.52,11.59
+346,Sayur Asem Goreng,nabati,300,213.88,12.0
+347,Oseng Tempe Goreng,nabati,100,147.1,9.67
+347,Oseng Tempe Goreng,nabati,200,214.82,16.17
+347,Oseng Tempe Goreng,nabati,300,231.31,19.09
+348,Tumis Terong Santan,nabati,100,94.0,4.33
+348,Tumis Terong Santan,nabati,200,111.98,9.61
+348,Tumis Terong Santan,nabati,300,262.88,23.66
+349,Jengkol Santan,nabati,100,67.09,7.12
+349,Jengkol Santan,nabati,200,247.24,15.28
+349,Jengkol Santan,nabati,300,164.56,14.88
+350,Tumis Kangkung Goreng,nabati,100,116.12,6.99
+350,Tumis Kangkung Goreng,nabati,200,261.12,19.72
+350,Tumis Kangkung Goreng,nabati,300,183.15,21.61
+351,Sayur Bayam Goreng,nabati,100,72.5,3.04
+351,Sayur Bayam Goreng,nabati,200,243.65,5.43
+351,Sayur Bayam Goreng,nabati,300,173.39,29.57
+352,Kacang Panjang Tumis,nabati,100,103.25,8.64
+352,Kacang Panjang Tumis,nabati,200,213.9,8.25
+352,Kacang Panjang Tumis,nabati,300,232.12,6.74
+353,Singkong Rebus,nabati,100,101.3,4.5
+353,Singkong Rebus,nabati,200,155.51,10.3
+353,Singkong Rebus,nabati,300,235.38,21.75
+354,Daun Pepaya Bening,nabati,100,101.62,3.13
+354,Daun Pepaya Bening,nabati,200,284.21,16.39
+354,Daun Pepaya Bening,nabati,300,392.54,7.49
+355,Kacang Tanah Santan,nabati,100,148.34,8.04
+355,Kacang Tanah Santan,nabati,200,235.82,6.04
+355,Kacang Tanah Santan,nabati,300,432.3,21.39
+356,Toge Santan,nabati,100,107.07,7.03
+356,Toge Santan,nabati,200,166.83,13.02
+356,Toge Santan,nabati,300,279.65,9.82
+357,Kacang Tanah Bening,nabati,100,142.07,2.42
+357,Kacang Tanah Bening,nabati,200,154.47,11.68
+357,Kacang Tanah Bening,nabati,300,207.61,16.28
+358,Terong Goreng,nabati,100,99.86,8.12
+358,Terong Goreng,nabati,200,213.49,19.17
+358,Terong Goreng,nabati,300,162.46,22.35
+359,Bayam Santan,nabati,100,149.81,6.95
+359,Bayam Santan,nabati,200,110.99,14.98
+359,Bayam Santan,nabati,300,155.01,6.57
+360,Gado-Gado Bening,nabati,100,67.06,2.47
+360,Gado-Gado Bening,nabati,200,185.5,8.43
+360,Gado-Gado Bening,nabati,300,258.79,12.22
+361,Daun Singkong Kuah,nabati,100,89.46,5.97
+361,Daun Singkong Kuah,nabati,200,155.6,4.68
+361,Daun Singkong Kuah,nabati,300,396.51,15.48
+362,Petai Sayur,nabati,100,116.79,2.36
+362,Petai Sayur,nabati,200,227.72,8.73
+362,Petai Sayur,nabati,300,395.18,27.6
+363,Jagung Manis Goreng,nabati,100,130.66,2.74
+363,Jagung Manis Goreng,nabati,200,257.4,9.46
+363,Jagung Manis Goreng,nabati,300,205.09,19.66
+364,Lontong Sayur Bening,nabati,100,117.32,8.63
+364,Lontong Sayur Bening,nabati,200,111.02,18.71
+364,Lontong Sayur Bening,nabati,300,436.61,26.25
+365,Kentang Tumis,nabati,100,117.11,3.02
+365,Kentang Tumis,nabati,200,177.63,8.62
+365,Kentang Tumis,nabati,300,293.57,6.17
+366,Wortel Bening,nabati,100,120.16,9.83
+366,Wortel Bening,nabati,200,231.49,13.26
+366,Wortel Bening,nabati,300,266.91,8.38
+367,Sambal Goreng Kentang Sayur,nabati,100,80.68,8.24
+367,Sambal Goreng Kentang Sayur,nabati,200,195.34,19.8
+367,Sambal Goreng Kentang Sayur,nabati,300,309.42,22.74
+368,Sayur Daun Singkong Santan,nabati,100,90.89,2.14
+368,Sayur Daun Singkong Santan,nabati,200,144.83,12.79
+368,Sayur Daun Singkong Santan,nabati,300,173.98,19.0
+369,Capcay Goreng,nabati,100,116.44,4.57
+369,Capcay Goreng,nabati,200,118.34,10.57
+369,Capcay Goreng,nabati,300,411.31,8.04
+370,Kacang Merah Tumis,nabati,100,83.82,9.22
+370,Kacang Merah Tumis,nabati,200,257.68,7.16
+370,Kacang Merah Tumis,nabati,300,351.04,13.58
+371,Daun Kelor Goreng,nabati,100,93.46,6.46
+371,Daun Kelor Goreng,nabati,200,165.43,13.23
+371,Daun Kelor Goreng,nabati,300,316.11,23.93
+372,Sayur Daun Singkong Kuah,nabati,100,78.48,9.86
+372,Sayur Daun Singkong Kuah,nabati,200,262.36,11.59
+372,Sayur Daun Singkong Kuah,nabati,300,349.49,22.03
+373,Talas Santan,nabati,100,107.1,4.28
+373,Talas Santan,nabati,200,154.33,17.77
+373,Talas Santan,nabati,300,172.95,28.0
+374,Labu Siam Sayur,nabati,100,98.56,6.97
+374,Labu Siam Sayur,nabati,200,275.91,15.66
+374,Labu Siam Sayur,nabati,300,258.82,18.04
+375,Capcay Rebus,nabati,100,116.66,5.12
+375,Capcay Rebus,nabati,200,135.39,11.37
+375,Capcay Rebus,nabati,300,379.58,11.88
+376,Wortel Sayur,nabati,100,112.78,6.6
+376,Wortel Sayur,nabati,200,139.54,12.95
+376,Wortel Sayur,nabati,300,202.33,14.61
+377,Rebung Goreng,nabati,100,62.13,7.87
+377,Rebung Goreng,nabati,200,193.8,5.44
+377,Rebung Goreng,nabati,300,337.68,9.21
+378,Sayur Lodeh Sayur,nabati,100,145.68,4.1
+378,Sayur Lodeh Sayur,nabati,200,238.9,19.04
+378,Sayur Lodeh Sayur,nabati,300,426.77,27.09
+379,Sawi Putih Balado,nabati,100,139.76,4.93
+379,Sawi Putih Balado,nabati,200,148.37,17.83
+379,Sawi Putih Balado,nabati,300,264.82,26.85
+380,Oyong Rebus,nabati,100,136.05,7.29
+380,Oyong Rebus,nabati,200,132.07,19.09
+380,Oyong Rebus,nabati,300,377.51,11.6
+381,Tumis Kangkung Sayur,nabati,100,108.4,2.55
+381,Tumis Kangkung Sayur,nabati,200,124.13,10.13
+381,Tumis Kangkung Sayur,nabati,300,236.06,11.58
+382,Sawi Putih Sayur,nabati,100,123.78,9.49
+382,Sawi Putih Sayur,nabati,200,212.14,6.1
+382,Sawi Putih Sayur,nabati,300,299.79,7.38
+383,Oseng Tempe Sayur,nabati,100,99.93,9.4
+383,Oseng Tempe Sayur,nabati,200,137.49,16.64
+383,Oseng Tempe Sayur,nabati,300,250.46,14.44
+384,Sayur Bayam Rebus,nabati,100,110.86,9.39
+384,Sayur Bayam Rebus,nabati,200,180.95,17.46
+384,Sayur Bayam Rebus,nabati,300,374.49,20.87
+385,Daun Kelor Rebus,nabati,100,98.15,4.42
+385,Daun Kelor Rebus,nabati,200,191.56,18.48
+385,Daun Kelor Rebus,nabati,300,264.88,10.71
+386,Tempe Goreng Tumis,nabati,100,99.37,9.88
+386,Tempe Goreng Tumis,nabati,200,214.34,17.19
+386,Tempe Goreng Tumis,nabati,300,379.21,20.02
+387,Petai Tumis,nabati,100,137.31,3.66
+387,Petai Tumis,nabati,200,203.66,9.34
+387,Petai Tumis,nabati,300,197.58,6.61
+388,Tumis Terong Sayur,nabati,100,119.68,4.87
+388,Tumis Terong Sayur,nabati,200,151.8,16.45
+388,Tumis Terong Sayur,nabati,300,269.53,9.59
+389,Sayur Labu Goreng,nabati,100,87.03,2.71
+389,Sayur Labu Goreng,nabati,200,192.84,9.24
+389,Sayur Labu Goreng,nabati,300,157.64,16.41
+390,Urap Sayur Kuah,nabati,100,101.34,5.14
+390,Urap Sayur Kuah,nabati,200,242.13,18.58
+390,Urap Sayur Kuah,nabati,300,241.53,6.16
+391,Kubis Balado,nabati,100,123.14,4.53
+391,Kubis Balado,nabati,200,120.95,4.08
+391,Kubis Balado,nabati,300,204.91,21.54
+392,Daun Kelor Sayur,nabati,100,69.77000000000001,5.5
+392,Daun Kelor Sayur,nabati,200,191.46,15.11
+392,Daun Kelor Sayur,nabati,300,196.51,6.67
+393,Kacang Hijau Sayur,nabati,100,93.92,6.37
+393,Kacang Hijau Sayur,nabati,200,217.59,18.2
+393,Kacang Hijau Sayur,nabati,300,162.97,19.03
+394,Labu Siam Goreng,nabati,100,119.25,2.34
+394,Labu Siam Goreng,nabati,200,252.48,11.11
+394,Labu Siam Goreng,nabati,300,193.74,10.78
+395,Rebung Sayur,nabati,100,99.34,9.84
+395,Rebung Sayur,nabati,200,141.77,18.28
+395,Rebung Sayur,nabati,300,357.64,6.45
+396,Kacang Tanah Kuah,nabati,100,146.95,9.41
+396,Kacang Tanah Kuah,nabati,200,166.21,6.16
+396,Kacang Tanah Kuah,nabati,300,264.45,19.59
+397,Tumis Terong Bening,nabati,100,124.74,5.69
+397,Tumis Terong Bening,nabati,200,131.39,6.31
+397,Tumis Terong Bening,nabati,300,347.14,14.6
+398,Pecel Balado,nabati,100,121.99,8.33
+398,Pecel Balado,nabati,200,271.26,17.88
+398,Pecel Balado,nabati,300,329.33,29.62
+399,Kangkung Goreng,nabati,100,143.55,4.38
+399,Kangkung Goreng,nabati,200,176.77,7.54
+399,Kangkung Goreng,nabati,300,238.52,14.84
+400,Oyong Bening,nabati,100,89.23,7.56
+400,Oyong Bening,nabati,200,264.61,17.39
+400,Oyong Bening,nabati,300,225.61,12.14
+401,Seledri Balado,nabati,100,122.97,9.94
+401,Seledri Balado,nabati,200,114.06,11.68
+401,Seledri Balado,nabati,300,223.76,27.23
+402,Pakcoy Bening,nabati,100,68.55,9.7
+402,Pakcoy Bening,nabati,200,101.03,17.71
+402,Pakcoy Bening,nabati,300,199.71,7.06
+403,Gudeg Goreng,nabati,100,85.93,2.8
+403,Gudeg Goreng,nabati,200,144.87,8.07
+403,Gudeg Goreng,nabati,300,434.43,27.94
+404,Sayur Daun Singkong Rebus,nabati,100,114.29,7.55
+404,Sayur Daun Singkong Rebus,nabati,200,290.76,10.87
+404,Sayur Daun Singkong Rebus,nabati,300,408.61,29.78
+405,Daun Pepaya Santan,nabati,100,90.61,8.85
+405,Daun Pepaya Santan,nabati,200,101.58,7.37
+405,Daun Pepaya Santan,nabati,300,320.47,26.07
+406,Daun Singkong Tumis,nabati,100,78.95,8.04
+406,Daun Singkong Tumis,nabati,200,108.71,6.62
+406,Daun Singkong Tumis,nabati,300,236.61,16.67
+407,Tumis Pare Bening,nabati,100,101.17,3.98
+407,Tumis Pare Bening,nabati,200,262.4,5.35
+407,Tumis Pare Bening,nabati,300,383.7,28.51
+408,Bakwan Jagung Kuah,nabati,100,105.79,6.07
+408,Bakwan Jagung Kuah,nabati,200,181.48,7.14
+408,Bakwan Jagung Kuah,nabati,300,155.14,10.07
+409,Daun Pepaya Goreng,nabati,100,94.98,6.56
+409,Daun Pepaya Goreng,nabati,200,142.31,14.16
+409,Daun Pepaya Goreng,nabati,300,166.29,26.42
+410,Kentang Goreng,nabati,100,76.4,9.56
+410,Kentang Goreng,nabati,200,235.65,8.1
+410,Kentang Goreng,nabati,300,268.07,13.08
+411,Sawi Hijau Santan,nabati,100,116.11,8.85
+411,Sawi Hijau Santan,nabati,200,150.4,5.91
+411,Sawi Hijau Santan,nabati,300,281.86,14.78
+412,Kacang Hijau Goreng,nabati,100,73.44,3.02
+412,Kacang Hijau Goreng,nabati,200,139.77,13.38
+412,Kacang Hijau Goreng,nabati,300,339.29,9.08
+413,Perkedel Kentang Bening,nabati,100,133.23,9.2
+413,Perkedel Kentang Bening,nabati,200,258.12,9.87
+413,Perkedel Kentang Bening,nabati,300,299.89,6.6
+414,Kacang Tanah Sayur,nabati,100,113.68,4.33
+414,Kacang Tanah Sayur,nabati,200,284.46,17.12
+414,Kacang Tanah Sayur,nabati,300,395.75,21.13
+415,Wortel Balado,nabati,100,62.47,5.86
+415,Wortel Balado,nabati,200,155.78,9.72
+415,Wortel Balado,nabati,300,277.63,16.1
+416,Tumis Buncis Tumis,nabati,100,123.05,9.32
+416,Tumis Buncis Tumis,nabati,200,261.5,13.26
+416,Tumis Buncis Tumis,nabati,300,279.84,6.55
+417,Daun Singkong Rebus,nabati,100,103.08,3.72
+417,Daun Singkong Rebus,nabati,200,180.2,10.5
+417,Daun Singkong Rebus,nabati,300,283.79,24.15
+418,Tempe Goreng Sayur,nabati,100,127.03,8.39
+418,Tempe Goreng Sayur,nabati,200,236.88,4.01
+418,Tempe Goreng Sayur,nabati,300,408.0,21.76
+419,Lontong Sayur Rebus,nabati,100,84.41,6.46
+419,Lontong Sayur Rebus,nabati,200,137.54,10.4
+419,Lontong Sayur Rebus,nabati,300,351.25,15.2
+420,Capcay Balado,nabati,100,82.74,7.91
+420,Capcay Balado,nabati,200,217.3,17.54
+420,Capcay Balado,nabati,300,348.3,29.43
+421,Jagung Manis Balado,nabati,100,118.35,3.03
+421,Jagung Manis Balado,nabati,200,244.54,10.99
+421,Jagung Manis Balado,nabati,300,177.59,8.64
+422,Tumis Toge Santan,nabati,100,92.33,7.74
+422,Tumis Toge Santan,nabati,200,204.17,8.27
+422,Tumis Toge Santan,nabati,300,194.83,17.26
+423,Talas Rebus,nabati,100,82.4,2.94
+423,Talas Rebus,nabati,200,107.17,14.41
+423,Talas Rebus,nabati,300,284.47,9.9
+424,Jagung Manis Sayur,nabati,100,133.97,6.79
+424,Jagung Manis Sayur,nabati,200,114.49,19.69
+424,Jagung Manis Sayur,nabati,300,285.67,17.25

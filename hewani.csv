@@ -1,0 +1,1225 @@
+No,nama_makanan,kategori,berat_gr,kalori,protein
+1,Kerang Dara Rebus,hewani,100,155.8,26.04
+1,Kerang Dara Rebus,hewani,200,580.7,36.83
+1,Kerang Dara Rebus,hewani,300,808.48,70.26
+2,Ikan Lele Goreng,hewani,100,247.09,24.42
+2,Ikan Lele Goreng,hewani,200,347.7,49.79
+2,Ikan Lele Goreng,hewani,300,837.68,46.74
+3,Ayam Goreng Rebus,hewani,100,226.97,24.78
+3,Ayam Goreng Rebus,hewani,200,306.35,41.98
+3,Ayam Goreng Rebus,hewani,300,792.54,54.81
+4,Cumi Goreng Tepung Sambal,hewani,100,266.38,26.46
+4,Cumi Goreng Tepung Sambal,hewani,200,438.6,44.32
+4,Cumi Goreng Tepung Sambal,hewani,300,762.59,87.39
+5,Ayam Goreng Kuah,hewani,100,231.55,21.92
+5,Ayam Goreng Kuah,hewani,200,438.13,41.17
+5,Ayam Goreng Kuah,hewani,300,500.88,73.84
+6,Sate Ayam Goreng,hewani,100,156.83,26.96
+6,Sate Ayam Goreng,hewani,200,481.41,42.79
+6,Sate Ayam Goreng,hewani,300,457.46,84.24
+7,Ikan Asin Jambal Balado,hewani,100,166.78,19.51
+7,Ikan Asin Jambal Balado,hewani,200,408.96,46.55
+7,Ikan Asin Jambal Balado,hewani,300,824.88,81.03
+8,Gulai Kambing Rebus,hewani,100,173.95,16.98
+8,Gulai Kambing Rebus,hewani,200,560.2,43.1
+8,Gulai Kambing Rebus,hewani,300,875.03,75.94
+9,Cumi Balado,hewani,100,190.09,23.32
+9,Cumi Balado,hewani,200,366.57,38.16
+9,Cumi Balado,hewani,300,540.8,73.32
+10,Ikan Mujair Bakar,hewani,100,178.09,24.16
+10,Ikan Mujair Bakar,hewani,200,423.83,50.98
+10,Ikan Mujair Bakar,hewani,300,859.35,63.09
+11,Rendang Kecap,hewani,100,179.59,18.88
+11,Rendang Kecap,hewani,200,494.82,42.61
+11,Rendang Kecap,hewani,300,555.41,69.83
+12,Ayam Broiler Goreng,hewani,100,281.5,19.13
+12,Ayam Broiler Goreng,hewani,200,581.55,48.24
+12,Ayam Broiler Goreng,hewani,300,457.81,61.67
+13,Udang Balado,hewani,100,253.05,23.32
+13,Udang Balado,hewani,200,563.94,38.41
+13,Udang Balado,hewani,300,816.91,59.43
+14,Udang Balado Kuah,hewani,100,158.92,29.23
+14,Udang Balado Kuah,hewani,200,409.5,49.75
+14,Udang Balado Kuah,hewani,300,841.84,52.89
+15,Ikan Teri Rebus,hewani,100,249.34,21.21
+15,Ikan Teri Rebus,hewani,200,581.19,35.99
+15,Ikan Teri Rebus,hewani,300,700.57,50.5
+16,Sop Buntut Sambal,hewani,100,271.93,24.18
+16,Sop Buntut Sambal,hewani,200,301.5,40.78
+16,Sop Buntut Sambal,hewani,300,822.66,69.74
+17,Sop Buntut Bakar,hewani,100,226.33,26.77
+17,Sop Buntut Bakar,hewani,200,545.56,33.21
+17,Sop Buntut Bakar,hewani,300,713.28,45.29
+18,Ikan Tongkol Sambal,hewani,100,151.49,19.18
+18,Ikan Tongkol Sambal,hewani,200,498.4,36.72
+18,Ikan Tongkol Sambal,hewani,300,706.29,55.36
+19,Kerang Hijau Goreng,hewani,100,158.27,21.93
+19,Kerang Hijau Goreng,hewani,200,585.51,36.87
+19,Kerang Hijau Goreng,hewani,300,603.82,56.77
+20,Ayam Taliwang Sambal,hewani,100,230.15,18.43
+20,Ayam Taliwang Sambal,hewani,200,521.81,42.38
+20,Ayam Taliwang Sambal,hewani,300,716.99,58.78
+21,Ayam Kampung Kecap,hewani,100,227.07,19.45
+21,Ayam Kampung Kecap,hewani,200,481.34,44.22
+21,Ayam Kampung Kecap,hewani,300,823.11,87.38
+22,Telur Balado Kuah,hewani,100,294.42,26.08
+22,Telur Balado Kuah,hewani,200,590.97,50.12
+22,Telur Balado Kuah,hewani,300,789.18,74.03
+23,Tongseng Sambal,hewani,100,299.56,29.5
+23,Tongseng Sambal,hewani,200,595.09,55.13
+23,Tongseng Sambal,hewani,300,456.81,79.57
+24,Ikan Asin Jambal Tumis,hewani,100,187.25,28.5
+24,Ikan Asin Jambal Tumis,hewani,200,572.06,33.75
+24,Ikan Asin Jambal Tumis,hewani,300,892.79,45.03
+25,Daging Kambing Tumis,hewani,100,196.49,22.81
+25,Daging Kambing Tumis,hewani,200,518.0,40.59
+25,Daging Kambing Tumis,hewani,300,494.38,73.45
+26,Cumi Goreng Tepung Goreng,hewani,100,268.59,18.04
+26,Cumi Goreng Tepung Goreng,hewani,200,576.23,34.1
+26,Cumi Goreng Tepung Goreng,hewani,300,617.83,57.65
+27,Opor Ayam Kecap,hewani,100,291.11,29.44
+27,Opor Ayam Kecap,hewani,200,482.08,36.46
+27,Opor Ayam Kecap,hewani,300,708.75,80.98
+28,Daging Kambing Balado,hewani,100,295.45,22.02
+28,Daging Kambing Balado,hewani,200,532.99,48.12
+28,Daging Kambing Balado,hewani,300,567.09,78.43
+29,Ikan Lele Tumis,hewani,100,228.05,17.39
+29,Ikan Lele Tumis,hewani,200,517.32,57.0
+29,Ikan Lele Tumis,hewani,300,757.38,73.08
+30,Telur Ayam Kecap,hewani,100,206.45,16.89
+30,Telur Ayam Kecap,hewani,200,372.29,41.86
+30,Telur Ayam Kecap,hewani,300,605.37,74.47
+31,Ikan Lele Bakar,hewani,100,285.16,18.47
+31,Ikan Lele Bakar,hewani,200,556.91,41.89
+31,Ikan Lele Bakar,hewani,300,559.37,61.9
+32,Paru Sapi Kuah,hewani,100,252.36,28.53
+32,Paru Sapi Kuah,hewani,200,386.55,57.58
+32,Paru Sapi Kuah,hewani,300,616.64,81.91
+33,Soto Ayam Balado,hewani,100,291.5,17.77
+33,Soto Ayam Balado,hewani,200,572.29,56.65
+33,Soto Ayam Balado,hewani,300,491.61,50.16
+34,Ikan Bakar Tumis,hewani,100,271.16,26.07
+34,Ikan Bakar Tumis,hewani,200,399.37,44.52
+34,Ikan Bakar Tumis,hewani,300,608.0,71.04
+35,Ikan Nila Balado,hewani,100,159.08,28.48
+35,Ikan Nila Balado,hewani,200,503.71,59.69
+35,Ikan Nila Balado,hewani,300,781.42,74.89
+36,Ayam Geprek Kuah,hewani,100,263.39,27.01
+36,Ayam Geprek Kuah,hewani,200,375.76,38.29
+36,Ayam Geprek Kuah,hewani,300,852.23,63.37
+37,Ikan Bakar Bakar,hewani,100,189.25,21.24
+37,Ikan Bakar Bakar,hewani,200,344.58,43.89
+37,Ikan Bakar Bakar,hewani,300,654.69,71.83
+38,Ayam Goreng Goreng,hewani,100,265.53,28.46
+38,Ayam Goreng Goreng,hewani,200,565.97,54.32
+38,Ayam Goreng Goreng,hewani,300,589.75,57.65
+39,Sate Ayam Tumis,hewani,100,167.36,24.81
+39,Sate Ayam Tumis,hewani,200,480.32,47.52
+39,Sate Ayam Tumis,hewani,300,543.56,46.78
+40,Soto Betawi Tumis,hewani,100,174.38,20.89
+40,Soto Betawi Tumis,hewani,200,515.91,44.27
+40,Soto Betawi Tumis,hewani,300,862.94,45.48
+41,Rendang Bakar,hewani,100,291.18,29.15
+41,Rendang Bakar,hewani,200,437.34,51.51
+41,Rendang Bakar,hewani,300,873.57,72.19
+42,Cumi Goreng Tepung Bakar,hewani,100,249.83,16.02
+42,Cumi Goreng Tepung Bakar,hewani,200,595.06,39.36
+42,Cumi Goreng Tepung Bakar,hewani,300,555.84,56.59
+43,Udang Balado Bakar,hewani,100,281.88,23.82
+43,Udang Balado Bakar,hewani,200,383.28,50.98
+43,Udang Balado Bakar,hewani,300,895.31,53.91
+44,Ayam Geprek Kecap,hewani,100,259.12,24.97
+44,Ayam Geprek Kecap,hewani,200,301.83,39.28
+44,Ayam Geprek Kecap,hewani,300,877.15,77.15
+45,Kerang Hijau Kecap,hewani,100,281.18,17.64
+45,Kerang Hijau Kecap,hewani,200,322.75,53.9
+45,Kerang Hijau Kecap,hewani,300,833.91,83.09
+46,Soto Betawi Kuah,hewani,100,219.77,16.78
+46,Soto Betawi Kuah,hewani,200,468.22,47.71
+46,Soto Betawi Kuah,hewani,300,562.78,55.34
+47,Ikan Tongkol Kuah,hewani,100,258.86,23.61
+47,Ikan Tongkol Kuah,hewani,200,502.39,59.19
+47,Ikan Tongkol Kuah,hewani,300,577.87,45.21
+48,Daging Sapi Rebus,hewani,100,286.58,17.03
+48,Daging Sapi Rebus,hewani,200,432.41,39.3
+48,Daging Sapi Rebus,hewani,300,632.06,70.82
+49,Cumi Sambal,hewani,100,184.27,27.24
+49,Cumi Sambal,hewani,200,358.02,46.23
+49,Cumi Sambal,hewani,300,762.35,88.22
+50,Tongseng Goreng,hewani,100,201.99,19.59
+50,Tongseng Goreng,hewani,200,585.41,57.2
+50,Tongseng Goreng,hewani,300,717.64,75.9
+51,Cumi Tumis,hewani,100,238.77,15.81
+51,Cumi Tumis,hewani,200,568.54,50.15
+51,Cumi Tumis,hewani,300,499.68,80.16
+52,Ayam Penyet Rebus,hewani,100,274.39,27.93
+52,Ayam Penyet Rebus,hewani,200,475.73,31.24
+52,Ayam Penyet Rebus,hewani,300,746.77,68.16
+53,Ikan Gurame Balado,hewani,100,279.17,27.4
+53,Ikan Gurame Balado,hewani,200,470.97,54.56
+53,Ikan Gurame Balado,hewani,300,517.72,45.16
+54,Ikan Teri Tumis,hewani,100,243.58,25.03
+54,Ikan Teri Tumis,hewani,200,562.17,45.06
+54,Ikan Teri Tumis,hewani,300,845.14,83.67
+55,Paru Sapi Kecap,hewani,100,158.59,23.72
+55,Paru Sapi Kecap,hewani,200,314.26,48.16
+55,Paru Sapi Kecap,hewani,300,887.51,51.18
+56,Kerang Saus Padang Sambal,hewani,100,245.59,16.28
+56,Kerang Saus Padang Sambal,hewani,200,439.77,31.41
+56,Kerang Saus Padang Sambal,hewani,300,851.21,48.21
+57,Ikan Mujair Rebus,hewani,100,183.77,16.54
+57,Ikan Mujair Rebus,hewani,200,444.32,54.22
+57,Ikan Mujair Rebus,hewani,300,688.87,55.1
+58,Ikan Nila Bakar,hewani,100,173.81,25.65
+58,Ikan Nila Bakar,hewani,200,429.79,45.99
+58,Ikan Nila Bakar,hewani,300,503.83,49.68
+59,Semur Daging Rebus,hewani,100,204.06,18.91
+59,Semur Daging Rebus,hewani,200,590.76,49.51
+59,Semur Daging Rebus,hewani,300,544.41,53.32
+60,Daging Sapi Balado,hewani,100,264.1,24.79
+60,Daging Sapi Balado,hewani,200,487.17,43.0
+60,Daging Sapi Balado,hewani,300,768.62,87.29
+61,Telur Balado Tumis,hewani,100,240.66,25.89
+61,Telur Balado Tumis,hewani,200,498.21,58.82
+61,Telur Balado Tumis,hewani,300,890.34,62.98
+62,Ayam Bakar Tumis,hewani,100,211.23,21.23
+62,Ayam Bakar Tumis,hewani,200,307.61,54.8
+62,Ayam Bakar Tumis,hewani,300,733.64,75.55
+63,Opor Ayam Balado,hewani,100,252.73,17.68
+63,Opor Ayam Balado,hewani,200,384.68,36.16
+63,Opor Ayam Balado,hewani,300,757.19,45.21
+64,Ikan Bandeng Sambal,hewani,100,151.1,27.08
+64,Ikan Bandeng Sambal,hewani,200,343.35,42.86
+64,Ikan Bandeng Sambal,hewani,300,465.48,87.18
+65,Opor Ayam Bakar,hewani,100,234.1,17.1
+65,Opor Ayam Bakar,hewani,200,344.36,36.56
+65,Opor Ayam Bakar,hewani,300,488.56,56.68
+66,Ayam Kampung Tumis,hewani,100,193.07,20.14
+66,Ayam Kampung Tumis,hewani,200,311.1,32.78
+66,Ayam Kampung Tumis,hewani,300,565.29,74.04
+67,Soto Ayam Sambal,hewani,100,211.26,21.13
+67,Soto Ayam Sambal,hewani,200,463.47,55.41
+67,Soto Ayam Sambal,hewani,300,883.65,54.73
+68,Ayam Bakar Kecap,hewani,100,247.42,19.68
+68,Ayam Bakar Kecap,hewani,200,591.33,35.94
+68,Ayam Bakar Kecap,hewani,300,466.22,61.7
+69,Hati Ayam Bakar,hewani,100,215.73,27.63
+69,Hati Ayam Bakar,hewani,200,341.27,49.34
+69,Hati Ayam Bakar,hewani,300,626.54,57.47
+70,Pepes Ikan Sambal,hewani,100,196.31,29.25
+70,Pepes Ikan Sambal,hewani,200,364.98,50.91
+70,Pepes Ikan Sambal,hewani,300,636.09,51.43
+71,Sop Buntut Tumis,hewani,100,186.99,28.61
+71,Sop Buntut Tumis,hewani,200,343.57,31.72
+71,Sop Buntut Tumis,hewani,300,834.43,55.71
+72,Daging Kambing Goreng,hewani,100,263.34,18.3
+72,Daging Kambing Goreng,hewani,200,596.91,47.09
+72,Daging Kambing Goreng,hewani,300,574.08,86.58
+73,Telur Dadar Padang Goreng,hewani,100,170.61,24.06
+73,Telur Dadar Padang Goreng,hewani,200,508.18,49.05
+73,Telur Dadar Padang Goreng,hewani,300,849.69,56.71
+74,Bakso Sapi Kecap,hewani,100,224.36,20.71
+74,Bakso Sapi Kecap,hewani,200,399.93,55.46
+74,Bakso Sapi Kecap,hewani,300,773.39,49.95
+75,Ayam Kampung Goreng,hewani,100,226.53,18.76
+75,Ayam Kampung Goreng,hewani,200,544.25,58.65
+75,Ayam Kampung Goreng,hewani,300,585.46,81.12
+76,Susu Sapi Kuah,hewani,100,252.38,23.26
+76,Susu Sapi Kuah,hewani,200,425.28,34.92
+76,Susu Sapi Kuah,hewani,300,540.26,89.98
+77,Hati Ayam Tumis,hewani,100,250.24,15.09
+77,Hati Ayam Tumis,hewani,200,466.81,48.98
+77,Hati Ayam Tumis,hewani,300,878.35,72.6
+78,Udang Balado Kecap,hewani,100,281.64,24.06
+78,Udang Balado Kecap,hewani,200,388.49,39.96
+78,Udang Balado Kecap,hewani,300,535.45,51.75
+79,Pindang Patin Rebus,hewani,100,212.7,18.17
+79,Pindang Patin Rebus,hewani,200,358.93,37.39
+79,Pindang Patin Rebus,hewani,300,577.07,85.28
+80,Daging Kambing Kecap,hewani,100,226.22,24.86
+80,Daging Kambing Kecap,hewani,200,364.53,44.15
+80,Daging Kambing Kecap,hewani,300,693.92,45.09
+81,Kepiting Goreng,hewani,100,234.49,24.64
+81,Kepiting Goreng,hewani,200,469.75,46.24
+81,Kepiting Goreng,hewani,300,876.67,63.48
+82,Kerang Dara Tumis,hewani,100,282.2,18.7
+82,Kerang Dara Tumis,hewani,200,301.78,55.66
+82,Kerang Dara Tumis,hewani,300,798.32,74.58
+83,Ayam Kampung Kuah,hewani,100,258.55,26.47
+83,Ayam Kampung Kuah,hewani,200,528.75,58.07
+83,Ayam Kampung Kuah,hewani,300,554.01,85.71
+84,Telur Puyuh Rebus,hewani,100,173.68,29.52
+84,Telur Puyuh Rebus,hewani,200,371.73,40.57
+84,Telur Puyuh Rebus,hewani,300,896.75,76.11
+85,Ayam Penyet Kecap,hewani,100,250.91,18.33
+85,Ayam Penyet Kecap,hewani,200,454.88,52.8
+85,Ayam Penyet Kecap,hewani,300,865.14,77.06
+86,Ayam Kampung Balado,hewani,100,266.19,17.95
+86,Ayam Kampung Balado,hewani,200,491.41,57.7
+86,Ayam Kampung Balado,hewani,300,785.14,66.49
+87,Cumi Rebus,hewani,100,247.09,28.86
+87,Cumi Rebus,hewani,200,533.67,45.06
+87,Cumi Rebus,hewani,300,640.12,82.03
+88,Kerang Dara Goreng,hewani,100,240.57,27.88
+88,Kerang Dara Goreng,hewani,200,324.27,33.78
+88,Kerang Dara Goreng,hewani,300,710.5,72.65
+89,Ikan Tongkol Kecap,hewani,100,173.49,21.65
+89,Ikan Tongkol Kecap,hewani,200,489.57,40.48
+89,Ikan Tongkol Kecap,hewani,300,571.05,71.63
+90,Kerang Dara Kuah,hewani,100,243.22,21.46
+90,Kerang Dara Kuah,hewani,200,406.01,34.34
+90,Kerang Dara Kuah,hewani,300,818.15,79.56
+91,Ikan Mujair Tumis,hewani,100,180.56,28.09
+91,Ikan Mujair Tumis,hewani,200,389.51,55.23
+91,Ikan Mujair Tumis,hewani,300,554.6,47.77
+92,Kerang Saus Padang Kuah,hewani,100,295.79,25.39
+92,Kerang Saus Padang Kuah,hewani,200,313.55,45.2
+92,Kerang Saus Padang Kuah,hewani,300,861.95,46.56
+93,Telur Dadar Padang Kecap,hewani,100,256.04,17.64
+93,Telur Dadar Padang Kecap,hewani,200,444.52,39.46
+93,Telur Dadar Padang Kecap,hewani,300,796.16,82.47
+94,Ayam Taliwang Rebus,hewani,100,229.86,18.98
+94,Ayam Taliwang Rebus,hewani,200,480.47,45.56
+94,Ayam Taliwang Rebus,hewani,300,811.22,88.45
+95,Cumi Goreng Tepung Rebus,hewani,100,294.45,21.78
+95,Cumi Goreng Tepung Rebus,hewani,200,337.47,40.22
+95,Cumi Goreng Tepung Rebus,hewani,300,621.12,51.63
+96,Bakso Sapi Tumis,hewani,100,284.63,23.71
+96,Bakso Sapi Tumis,hewani,200,394.1,39.31
+96,Bakso Sapi Tumis,hewani,300,691.18,47.24
+97,Daging Sapi Sambal,hewani,100,272.69,22.66
+97,Daging Sapi Sambal,hewani,200,365.22,58.81
+97,Daging Sapi Sambal,hewani,300,687.64,46.38
+98,Ikan Gurame Goreng,hewani,100,298.64,16.05
+98,Ikan Gurame Goreng,hewani,200,417.78,31.81
+98,Ikan Gurame Goreng,hewani,300,833.16,56.88
+99,Ayam Penyet Balado,hewani,100,171.22,23.8
+99,Ayam Penyet Balado,hewani,200,547.96,57.72
+99,Ayam Penyet Balado,hewani,300,720.19,54.38
+100,Cumi Bakar,hewani,100,175.41,23.27
+100,Cumi Bakar,hewani,200,569.53,43.22
+100,Cumi Bakar,hewani,300,545.96,51.68
+101,Ikan Patin Goreng,hewani,100,248.93,16.01
+101,Ikan Patin Goreng,hewani,200,415.0,42.26
+101,Ikan Patin Goreng,hewani,300,683.69,87.23
+102,Soto Ayam Goreng,hewani,100,166.21,29.61
+102,Soto Ayam Goreng,hewani,200,415.91,54.36
+102,Soto Ayam Goreng,hewani,300,776.2,89.92
+103,Ikan Bandeng Kecap,hewani,100,200.43,24.53
+103,Ikan Bandeng Kecap,hewani,200,536.62,39.74
+103,Ikan Bandeng Kecap,hewani,300,830.82,58.34
+104,Ikan Lele Kuah,hewani,100,243.77,18.23
+104,Ikan Lele Kuah,hewani,200,503.88,53.92
+104,Ikan Lele Kuah,hewani,300,605.79,87.68
+105,Kepiting Rebus,hewani,100,206.99,27.28
+105,Kepiting Rebus,hewani,200,526.72,30.05
+105,Kepiting Rebus,hewani,300,482.86,57.8
+106,Bakso Sapi Rebus,hewani,100,251.69,26.51
+106,Bakso Sapi Rebus,hewani,200,410.52,41.9
+106,Bakso Sapi Rebus,hewani,300,625.58,54.7
+107,Daging Kambing Kuah,hewani,100,231.41,22.06
+107,Daging Kambing Kuah,hewani,200,548.27,32.51
+107,Daging Kambing Kuah,hewani,300,664.35,88.17
+108,Ayam Geprek Goreng,hewani,100,261.74,15.28
+108,Ayam Geprek Goreng,hewani,200,420.86,45.29
+108,Ayam Geprek Goreng,hewani,300,556.69,83.82
+109,Rendang Balado,hewani,100,157.95,28.65
+109,Rendang Balado,hewani,200,322.24,46.98
+109,Rendang Balado,hewani,300,869.85,75.69
+110,Ikan Asin Jambal Kuah,hewani,100,288.08,19.47
+110,Ikan Asin Jambal Kuah,hewani,200,529.73,48.17
+110,Ikan Asin Jambal Kuah,hewani,300,799.28,70.27
+111,Kepiting Bakar,hewani,100,228.46,28.09
+111,Kepiting Bakar,hewani,200,347.7,55.54
+111,Kepiting Bakar,hewani,300,775.59,83.36
+112,Abon Sapi Goreng,hewani,100,189.65,22.36
+112,Abon Sapi Goreng,hewani,200,381.25,34.71
+112,Abon Sapi Goreng,hewani,300,689.62,79.18
+113,Empal Gepuk Rebus,hewani,100,266.86,20.85
+113,Empal Gepuk Rebus,hewani,200,311.74,30.0
+113,Empal Gepuk Rebus,hewani,300,748.55,63.29
+114,Soto Ayam Bakar,hewani,100,156.18,24.39
+114,Soto Ayam Bakar,hewani,200,418.61,59.22
+114,Soto Ayam Bakar,hewani,300,658.87,55.05
+115,Kerang Dara Bakar,hewani,100,269.39,23.76
+115,Kerang Dara Bakar,hewani,200,424.8,32.44
+115,Kerang Dara Bakar,hewani,300,681.96,50.36
+116,Paru Sapi Balado,hewani,100,206.9,29.03
+116,Paru Sapi Balado,hewani,200,506.23,42.43
+116,Paru Sapi Balado,hewani,300,466.44,52.0
+117,Telur Ayam Rebus,hewani,100,291.67,26.85
+117,Telur Ayam Rebus,hewani,200,473.56,56.15
+117,Telur Ayam Rebus,hewani,300,594.91,88.47
+118,Telur Bebek Tumis,hewani,100,188.94,17.3
+118,Telur Bebek Tumis,hewani,200,376.05,49.57
+118,Telur Bebek Tumis,hewani,300,721.41,47.52
+119,Ayam Penyet Goreng,hewani,100,192.46,19.53
+119,Ayam Penyet Goreng,hewani,200,386.06,56.11
+119,Ayam Penyet Goreng,hewani,300,798.61,65.56
+120,Susu Kambing Balado,hewani,100,244.73,29.66
+120,Susu Kambing Balado,hewani,200,462.87,37.83
+120,Susu Kambing Balado,hewani,300,854.43,69.66
+121,Sate Padang Goreng,hewani,100,297.33,17.85
+121,Sate Padang Goreng,hewani,200,589.45,43.39
+121,Sate Padang Goreng,hewani,300,804.29,65.62
+122,Ikan Tongkol Goreng,hewani,100,256.74,22.66
+122,Ikan Tongkol Goreng,hewani,200,571.2,38.76
+122,Ikan Tongkol Goreng,hewani,300,812.71,87.28
+123,Telur Balado Bakar,hewani,100,219.17,21.96
+123,Telur Balado Bakar,hewani,200,378.0,36.58
+123,Telur Balado Bakar,hewani,300,891.52,81.64
+124,Kepiting Balado,hewani,100,267.41,15.86
+124,Kepiting Balado,hewani,200,444.45,42.91
+124,Kepiting Balado,hewani,300,544.13,54.12
+125,Pepes Ikan Tumis,hewani,100,277.38,29.66
+125,Pepes Ikan Tumis,hewani,200,363.43,35.9
+125,Pepes Ikan Tumis,hewani,300,658.94,66.45
+126,Ikan Mujair Kuah,hewani,100,217.39,23.41
+126,Ikan Mujair Kuah,hewani,200,416.12,48.39
+126,Ikan Mujair Kuah,hewani,300,496.3,65.3
+127,Tongseng Kuah,hewani,100,205.74,19.18
+127,Tongseng Kuah,hewani,200,405.32,40.61
+127,Tongseng Kuah,hewani,300,725.55,75.83
+128,Ikan Gurame Rebus,hewani,100,229.48,22.25
+128,Ikan Gurame Rebus,hewani,200,390.35,39.81
+128,Ikan Gurame Rebus,hewani,300,635.3,51.92
+129,Ikan Tongkol Tumis,hewani,100,256.7,22.06
+129,Ikan Tongkol Tumis,hewani,200,515.92,45.97
+129,Ikan Tongkol Tumis,hewani,300,524.0,57.15
+130,Rendang Kuah,hewani,100,186.3,26.85
+130,Rendang Kuah,hewani,200,448.65,37.03
+130,Rendang Kuah,hewani,300,772.21,80.35
+131,Kepiting Tumis,hewani,100,235.06,22.5
+131,Kepiting Tumis,hewani,200,317.91,50.88
+131,Kepiting Tumis,hewani,300,783.46,50.12
+132,Telur Balado Balado,hewani,100,258.73,21.24
+132,Telur Balado Balado,hewani,200,561.6,59.27
+132,Telur Balado Balado,hewani,300,897.01,78.75
+133,Soto Ayam Tumis,hewani,100,164.79,21.96
+133,Soto Ayam Tumis,hewani,200,569.56,34.68
+133,Soto Ayam Tumis,hewani,300,530.25,56.64
+134,Opor Ayam Tumis,hewani,100,262.27,18.96
+134,Opor Ayam Tumis,hewani,200,346.68,58.45
+134,Opor Ayam Tumis,hewani,300,506.67,69.73
+135,Ayam Penyet Bakar,hewani,100,194.58,27.71
+135,Ayam Penyet Bakar,hewani,200,350.92,53.58
+135,Ayam Penyet Bakar,hewani,300,792.8,64.71
+136,Ayam Taliwang Bakar,hewani,100,230.46,24.7
+136,Ayam Taliwang Bakar,hewani,200,544.38,38.34
+136,Ayam Taliwang Bakar,hewani,300,807.96,60.43
+137,Abon Sapi Rebus,hewani,100,231.21,15.58
+137,Abon Sapi Rebus,hewani,200,417.6,52.38
+137,Abon Sapi Rebus,hewani,300,837.89,88.22
+138,Telur Puyuh Kecap,hewani,100,299.56,29.4
+138,Telur Puyuh Kecap,hewani,200,477.45,44.41
+138,Telur Puyuh Kecap,hewani,300,603.13,74.75
+139,Empal Gepuk Goreng,hewani,100,165.56,27.94
+139,Empal Gepuk Goreng,hewani,200,515.94,52.48
+139,Empal Gepuk Goreng,hewani,300,876.74,76.11
+140,Udang Balado Sambal,hewani,100,229.54,15.38
+140,Udang Balado Sambal,hewani,200,464.47,36.89
+140,Udang Balado Sambal,hewani,300,704.49,65.19
+141,Sate Ayam Balado,hewani,100,247.57,20.89
+141,Sate Ayam Balado,hewani,200,547.52,33.67
+141,Sate Ayam Balado,hewani,300,494.09,54.23
+142,Empal Gepuk Kecap,hewani,100,179.61,19.87
+142,Empal Gepuk Kecap,hewani,200,599.05,48.96
+142,Empal Gepuk Kecap,hewani,300,830.64,74.29
+143,Susu Kambing Bakar,hewani,100,201.75,17.48
+143,Susu Kambing Bakar,hewani,200,442.26,52.01
+143,Susu Kambing Bakar,hewani,300,656.27,67.5
+144,Ayam Geprek Tumis,hewani,100,200.39,29.67
+144,Ayam Geprek Tumis,hewani,200,553.76,57.41
+144,Ayam Geprek Tumis,hewani,300,743.63,51.68
+145,Daging Sapi Goreng,hewani,100,221.48,27.65
+145,Daging Sapi Goreng,hewani,200,444.73,35.31
+145,Daging Sapi Goreng,hewani,300,738.42,87.58
+146,Kerang Hijau Bakar,hewani,100,213.64,19.71
+146,Kerang Hijau Bakar,hewani,200,460.72,53.75
+146,Kerang Hijau Bakar,hewani,300,460.63,89.94
+147,Paru Sapi Rebus,hewani,100,281.07,24.58
+147,Paru Sapi Rebus,hewani,200,585.01,31.08
+147,Paru Sapi Rebus,hewani,300,722.3,77.72
+148,Ikan Gurame Tumis,hewani,100,155.59,27.55
+148,Ikan Gurame Tumis,hewani,200,435.15,52.69
+148,Ikan Gurame Tumis,hewani,300,717.29,60.04
+149,Ayam Bakar Bakar,hewani,100,296.86,23.75
+149,Ayam Bakar Bakar,hewani,200,415.65,56.67
+149,Ayam Bakar Bakar,hewani,300,472.81,51.35
+150,Pindang Patin Kuah,hewani,100,200.93,26.06
+150,Pindang Patin Kuah,hewani,200,428.02,41.27
+150,Pindang Patin Kuah,hewani,300,781.91,65.59
+151,Daging Kambing Bakar,hewani,100,157.49,26.37
+151,Daging Kambing Bakar,hewani,200,452.89,32.14
+151,Daging Kambing Bakar,hewani,300,749.59,86.86
+152,Sate Ayam Kuah,hewani,100,297.52,17.05
+152,Sate Ayam Kuah,hewani,200,541.66,45.96
+152,Sate Ayam Kuah,hewani,300,828.57,79.75
+153,Pepes Ikan Kuah,hewani,100,191.67,19.11
+153,Pepes Ikan Kuah,hewani,200,491.75,31.7
+153,Pepes Ikan Kuah,hewani,300,572.9,69.46
+154,Susu Kambing Sambal,hewani,100,185.21,25.66
+154,Susu Kambing Sambal,hewani,200,484.27,42.25
+154,Susu Kambing Sambal,hewani,300,887.94,76.67
+155,Kepiting Sambal,hewani,100,213.14,17.34
+155,Kepiting Sambal,hewani,200,339.03,51.01
+155,Kepiting Sambal,hewani,300,546.01,77.94
+156,Ikan Nila Tumis,hewani,100,185.63,16.17
+156,Ikan Nila Tumis,hewani,200,593.72,55.11
+156,Ikan Nila Tumis,hewani,300,661.57,64.09
+157,Cumi Goreng,hewani,100,191.12,29.9
+157,Cumi Goreng,hewani,200,320.6,53.9
+157,Cumi Goreng,hewani,300,653.68,64.66
+158,Cumi Goreng Tepung Tumis,hewani,100,283.21,20.42
+158,Cumi Goreng Tepung Tumis,hewani,200,483.82,42.55
+158,Cumi Goreng Tepung Tumis,hewani,300,588.05,87.66
+159,Opor Ayam Sambal,hewani,100,291.79,16.69
+159,Opor Ayam Sambal,hewani,200,392.45,51.3
+159,Opor Ayam Sambal,hewani,300,458.81,53.76
+160,Pindang Patin Balado,hewani,100,166.14,28.84
+160,Pindang Patin Balado,hewani,200,337.93,35.09
+160,Pindang Patin Balado,hewani,300,671.23,62.97
+161,Udang Tumis,hewani,100,214.26,18.18
+161,Udang Tumis,hewani,200,537.32,37.58
+161,Udang Tumis,hewani,300,779.47,85.18
+162,Paru Sapi Goreng,hewani,100,211.99,28.12
+162,Paru Sapi Goreng,hewani,200,541.27,54.59
+162,Paru Sapi Goreng,hewani,300,611.76,62.73
+163,Telur Ayam Kuah,hewani,100,239.28,20.07
+163,Telur Ayam Kuah,hewani,200,495.01,45.53
+163,Telur Ayam Kuah,hewani,300,719.59,60.21
+164,Sate Ayam Kecap,hewani,100,161.17,17.06
+164,Sate Ayam Kecap,hewani,200,341.8,37.51
+164,Sate Ayam Kecap,hewani,300,572.69,69.33
+165,Ayam Goreng Kecap,hewani,100,169.8,24.14
+165,Ayam Goreng Kecap,hewani,200,465.23,47.32
+165,Ayam Goreng Kecap,hewani,300,857.63,66.0
+166,Susu Kambing Tumis,hewani,100,298.95,23.2
+166,Susu Kambing Tumis,hewani,200,594.04,56.34
+166,Susu Kambing Tumis,hewani,300,767.44,84.28
+167,Abon Sapi Kuah,hewani,100,221.44,27.43
+167,Abon Sapi Kuah,hewani,200,551.71,52.58
+167,Abon Sapi Kuah,hewani,300,560.59,72.26
+168,Ayam Taliwang Kecap,hewani,100,268.71,20.03
+168,Ayam Taliwang Kecap,hewani,200,422.68,43.01
+168,Ayam Taliwang Kecap,hewani,300,899.81,47.21
+169,Tongseng Tumis,hewani,100,234.94,18.6
+169,Tongseng Tumis,hewani,200,433.58,40.18
+169,Tongseng Tumis,hewani,300,593.76,60.94
+170,Ikan Lele Sambal,hewani,100,230.06,22.68
+170,Ikan Lele Sambal,hewani,200,381.02,50.86
+170,Ikan Lele Sambal,hewani,300,757.66,66.52
+171,Gulai Kambing Sambal,hewani,100,202.07,25.06
+171,Gulai Kambing Sambal,hewani,200,455.14,41.69
+171,Gulai Kambing Sambal,hewani,300,777.59,46.66
+172,Kerang Saus Padang Rebus,hewani,100,185.76,23.42
+172,Kerang Saus Padang Rebus,hewani,200,378.65,40.97
+172,Kerang Saus Padang Rebus,hewani,300,587.84,80.53
+173,Ikan Asin Jambal Sambal,hewani,100,198.58,28.07
+173,Ikan Asin Jambal Sambal,hewani,200,479.49,55.67
+173,Ikan Asin Jambal Sambal,hewani,300,478.8,49.18
+174,Ayam Bakar Balado,hewani,100,241.57,21.58
+174,Ayam Bakar Balado,hewani,200,444.29,34.84
+174,Ayam Bakar Balado,hewani,300,649.93,77.23
+175,Sate Padang Tumis,hewani,100,222.32,23.92
+175,Sate Padang Tumis,hewani,200,471.42,54.91
+175,Sate Padang Tumis,hewani,300,840.47,46.69
+176,Opor Ayam Rebus,hewani,100,293.37,22.03
+176,Opor Ayam Rebus,hewani,200,381.82,48.09
+176,Opor Ayam Rebus,hewani,300,555.08,82.31
+177,Soto Ayam Kuah,hewani,100,221.43,15.7
+177,Soto Ayam Kuah,hewani,200,372.73,46.68
+177,Soto Ayam Kuah,hewani,300,709.86,71.31
+178,Kerang Saus Padang Goreng,hewani,100,261.77,26.91
+178,Kerang Saus Padang Goreng,hewani,200,598.31,34.49
+178,Kerang Saus Padang Goreng,hewani,300,775.45,82.73
+179,Susu Sapi Sambal,hewani,100,179.76,21.99
+179,Susu Sapi Sambal,hewani,200,394.89,58.82
+179,Susu Sapi Sambal,hewani,300,496.7,69.79
+180,Ikan Patin Tumis,hewani,100,221.01,20.94
+180,Ikan Patin Tumis,hewani,200,535.2,34.22
+180,Ikan Patin Tumis,hewani,300,603.28,65.8
+181,Ikan Asin Jambal Rebus,hewani,100,201.46,26.07
+181,Ikan Asin Jambal Rebus,hewani,200,512.49,58.14
+181,Ikan Asin Jambal Rebus,hewani,300,470.42,53.23
+182,Ayam Taliwang Kuah,hewani,100,150.24,24.34
+182,Ayam Taliwang Kuah,hewani,200,598.6,46.23
+182,Ayam Taliwang Kuah,hewani,300,840.78,60.97
+183,Udang Balado Goreng,hewani,100,186.94,15.52
+183,Udang Balado Goreng,hewani,200,400.8,34.67
+183,Udang Balado Goreng,hewani,300,616.3,81.53
+184,Kerang Hijau Sambal,hewani,100,281.07,16.7
+184,Kerang Hijau Sambal,hewani,200,522.07,38.54
+184,Kerang Hijau Sambal,hewani,300,892.83,67.25
+185,Ayam Broiler Kuah,hewani,100,171.2,19.38
+185,Ayam Broiler Kuah,hewani,200,560.78,40.72
+185,Ayam Broiler Kuah,hewani,300,679.36,47.13
+186,Sate Padang Bakar,hewani,100,208.57,25.75
+186,Sate Padang Bakar,hewani,200,486.27,36.05
+186,Sate Padang Bakar,hewani,300,585.85,72.83
+187,Ikan Patin Balado,hewani,100,186.31,26.38
+187,Ikan Patin Balado,hewani,200,485.91,57.97
+187,Ikan Patin Balado,hewani,300,572.04,62.99
+188,Ayam Penyet Tumis,hewani,100,155.97,23.86
+188,Ayam Penyet Tumis,hewani,200,305.76,39.9
+188,Ayam Penyet Tumis,hewani,300,700.33,79.81
+189,Susu Sapi Balado,hewani,100,281.66,26.19
+189,Susu Sapi Balado,hewani,200,363.28,51.12
+189,Susu Sapi Balado,hewani,300,529.86,68.49
+190,Ayam Taliwang Tumis,hewani,100,255.08,26.0
+190,Ayam Taliwang Tumis,hewani,200,503.52,32.45
+190,Ayam Taliwang Tumis,hewani,300,701.0,86.24
+191,Sate Ayam Rebus,hewani,100,171.85,18.21
+191,Sate Ayam Rebus,hewani,200,467.65,31.02
+191,Sate Ayam Rebus,hewani,300,518.97,49.59
+192,Udang Balado Balado,hewani,100,281.39,23.15
+192,Udang Balado Balado,hewani,200,348.49,57.44
+192,Udang Balado Balado,hewani,300,857.63,64.95
+193,Kerang Saus Padang Tumis,hewani,100,260.41,22.84
+193,Kerang Saus Padang Tumis,hewani,200,490.06,46.95
+193,Kerang Saus Padang Tumis,hewani,300,614.82,85.72
+194,Pepes Ikan Bakar,hewani,100,199.48,17.79
+194,Pepes Ikan Bakar,hewani,200,537.46,38.99
+194,Pepes Ikan Bakar,hewani,300,490.48,57.9
+195,Telur Dadar Padang Rebus,hewani,100,162.83,27.72
+195,Telur Dadar Padang Rebus,hewani,200,516.58,56.26
+195,Telur Dadar Padang Rebus,hewani,300,640.21,55.85
+196,Semur Daging Tumis,hewani,100,231.26,18.14
+196,Semur Daging Tumis,hewani,200,458.23,34.99
+196,Semur Daging Tumis,hewani,300,626.52,49.85
+197,Cumi Goreng Tepung Balado,hewani,100,248.56,24.35
+197,Cumi Goreng Tepung Balado,hewani,200,349.73,56.25
+197,Cumi Goreng Tepung Balado,hewani,300,703.74,68.35
+198,Ikan Bakar Kuah,hewani,100,159.41,17.21
+198,Ikan Bakar Kuah,hewani,200,446.64,33.56
+198,Ikan Bakar Kuah,hewani,300,570.87,48.8
+199,Rendang Tumis,hewani,100,230.84,22.38
+199,Rendang Tumis,hewani,200,576.31,41.15
+199,Rendang Tumis,hewani,300,676.64,88.53
+200,Ikan Patin Sambal,hewani,100,174.97,17.25
+200,Ikan Patin Sambal,hewani,200,586.11,39.91
+200,Ikan Patin Sambal,hewani,300,647.67,79.5
+201,Telur Ayam Tumis,hewani,100,176.81,27.01
+201,Telur Ayam Tumis,hewani,200,370.35,52.81
+201,Telur Ayam Tumis,hewani,300,871.63,55.3
+202,Daging Kambing Sambal,hewani,100,260.97,27.43
+202,Daging Kambing Sambal,hewani,200,445.79,46.03
+202,Daging Kambing Sambal,hewani,300,760.85,56.7
+203,Paru Sapi Sambal,hewani,100,179.88,15.69
+203,Paru Sapi Sambal,hewani,200,390.69,33.23
+203,Paru Sapi Sambal,hewani,300,849.04,75.37
+204,Sate Padang Rebus,hewani,100,242.04,27.9
+204,Sate Padang Rebus,hewani,200,564.65,38.31
+204,Sate Padang Rebus,hewani,300,840.96,67.65
+205,Empal Gepuk Tumis,hewani,100,176.46,19.2
+205,Empal Gepuk Tumis,hewani,200,380.42,43.56
+205,Empal Gepuk Tumis,hewani,300,514.72,71.95
+206,Soto Betawi Kecap,hewani,100,223.89,29.42
+206,Soto Betawi Kecap,hewani,200,350.24,52.02
+206,Soto Betawi Kecap,hewani,300,810.61,82.19
+207,Cumi Kuah,hewani,100,181.02,17.22
+207,Cumi Kuah,hewani,200,330.91,48.75
+207,Cumi Kuah,hewani,300,803.44,71.38
+208,Soto Betawi Sambal,hewani,100,170.57,17.75
+208,Soto Betawi Sambal,hewani,200,467.44,32.66
+208,Soto Betawi Sambal,hewani,300,899.03,47.51
+209,Kerang Saus Padang Kecap,hewani,100,176.07,21.14
+209,Kerang Saus Padang Kecap,hewani,200,543.59,42.9
+209,Kerang Saus Padang Kecap,hewani,300,503.83,56.52
+210,Ikan Bandeng Balado,hewani,100,259.47,15.99
+210,Ikan Bandeng Balado,hewani,200,430.65,45.19
+210,Ikan Bandeng Balado,hewani,300,491.78,63.6
+211,Udang Kuah,hewani,100,290.88,21.81
+211,Udang Kuah,hewani,200,320.32,57.92
+211,Udang Kuah,hewani,300,629.03,87.3
+212,Sate Padang Sambal,hewani,100,299.52,27.71
+212,Sate Padang Sambal,hewani,200,408.82,55.89
+212,Sate Padang Sambal,hewani,300,723.36,87.62
+213,Ayam Bakar Kuah,hewani,100,158.67,15.76
+213,Ayam Bakar Kuah,hewani,200,338.52,36.6
+213,Ayam Bakar Kuah,hewani,300,623.06,56.99
+214,Pindang Patin Tumis,hewani,100,236.71,17.67
+214,Pindang Patin Tumis,hewani,200,377.04,51.84
+214,Pindang Patin Tumis,hewani,300,812.74,47.97
+215,Ayam Kampung Bakar,hewani,100,241.38,27.86
+215,Ayam Kampung Bakar,hewani,200,553.72,35.48
+215,Ayam Kampung Bakar,hewani,300,481.33,47.79
+216,Tongseng Bakar,hewani,100,294.47,16.37
+216,Tongseng Bakar,hewani,200,475.24,33.33
+216,Tongseng Bakar,hewani,300,624.07,55.56
+217,Hati Ayam Rebus,hewani,100,167.27,21.95
+217,Hati Ayam Rebus,hewani,200,382.04,31.19
+217,Hati Ayam Rebus,hewani,300,814.24,46.78
+218,Susu Sapi Rebus,hewani,100,232.74,29.3
+218,Susu Sapi Rebus,hewani,200,590.43,39.24
+218,Susu Sapi Rebus,hewani,300,766.63,64.25
+219,Ikan Nila Goreng,hewani,100,262.61,22.74
+219,Ikan Nila Goreng,hewani,200,501.51,40.44
+219,Ikan Nila Goreng,hewani,300,772.07,55.24
+220,Pindang Patin Sambal,hewani,100,258.46,20.2
+220,Pindang Patin Sambal,hewani,200,526.97,37.42
+220,Pindang Patin Sambal,hewani,300,739.04,68.96
+221,Ikan Nila Rebus,hewani,100,188.33,21.87
+221,Ikan Nila Rebus,hewani,200,545.91,48.18
+221,Ikan Nila Rebus,hewani,300,545.94,87.52
+222,Semur Daging Balado,hewani,100,187.69,27.6
+222,Semur Daging Balado,hewani,200,582.52,32.43
+222,Semur Daging Balado,hewani,300,583.83,50.29
+223,Ayam Bakar Sambal,hewani,100,232.55,26.96
+223,Ayam Bakar Sambal,hewani,200,470.08,37.0
+223,Ayam Bakar Sambal,hewani,300,680.64,63.34
+224,Daging Sapi Kuah,hewani,100,179.38,28.92
+224,Daging Sapi Kuah,hewani,200,462.49,52.42
+224,Daging Sapi Kuah,hewani,300,537.91,70.57
+225,Kerang Dara Sambal,hewani,100,232.48,15.73
+225,Kerang Dara Sambal,hewani,200,558.83,44.37
+225,Kerang Dara Sambal,hewani,300,685.64,56.84
+226,Daging Sapi Bakar,hewani,100,194.68,21.0
+226,Daging Sapi Bakar,hewani,200,571.29,54.59
+226,Daging Sapi Bakar,hewani,300,589.78,46.06
+227,Telur Ayam Goreng,hewani,100,223.8,28.92
+227,Telur Ayam Goreng,hewani,200,320.32,35.0
+227,Telur Ayam Goreng,hewani,300,452.78,57.43
+228,Ayam Geprek Rebus,hewani,100,286.17,21.6
+228,Ayam Geprek Rebus,hewani,200,596.08,59.35
+228,Ayam Geprek Rebus,hewani,300,468.74,45.22
+229,Ikan Bandeng Bakar,hewani,100,289.72,26.4
+229,Ikan Bandeng Bakar,hewani,200,392.22,55.75
+229,Ikan Bandeng Bakar,hewani,300,812.56,49.9
+230,Pepes Ikan Kecap,hewani,100,294.76,27.05
+230,Pepes Ikan Kecap,hewani,200,482.57,39.17
+230,Pepes Ikan Kecap,hewani,300,507.99,87.69
+231,Rendang Sambal,hewani,100,260.85,24.75
+231,Rendang Sambal,hewani,200,345.26,56.88
+231,Rendang Sambal,hewani,300,639.82,66.09
+232,Kerang Hijau Balado,hewani,100,203.39,22.51
+232,Kerang Hijau Balado,hewani,200,536.39,55.42
+232,Kerang Hijau Balado,hewani,300,807.19,56.95
+233,Ayam Taliwang Balado,hewani,100,294.02,21.29
+233,Ayam Taliwang Balado,hewani,200,344.41,45.25
+233,Ayam Taliwang Balado,hewani,300,588.59,72.37
+234,Telur Puyuh Balado,hewani,100,153.69,19.67
+234,Telur Puyuh Balado,hewani,200,599.46,32.78
+234,Telur Puyuh Balado,hewani,300,573.97,63.41
+235,Sate Ayam Bakar,hewani,100,168.42,19.97
+235,Sate Ayam Bakar,hewani,200,316.0,41.99
+235,Sate Ayam Bakar,hewani,300,615.49,84.86
+236,Gulai Kambing Balado,hewani,100,155.25,29.66
+236,Gulai Kambing Balado,hewani,200,314.25,56.42
+236,Gulai Kambing Balado,hewani,300,458.17,65.33
+237,Udang Balado Rebus,hewani,100,182.26,25.03
+237,Udang Balado Rebus,hewani,200,370.09,46.12
+237,Udang Balado Rebus,hewani,300,576.77,51.01
+238,Udang Goreng,hewani,100,266.05,27.14
+238,Udang Goreng,hewani,200,344.56,51.78
+238,Udang Goreng,hewani,300,884.68,87.65
+239,Telur Bebek Kuah,hewani,100,167.9,16.33
+239,Telur Bebek Kuah,hewani,200,463.55,42.77
+239,Telur Bebek Kuah,hewani,300,851.4,65.62
+240,Sate Padang Balado,hewani,100,238.57,29.94
+240,Sate Padang Balado,hewani,200,447.78,32.14
+240,Sate Padang Balado,hewani,300,899.58,82.8
+241,Abon Sapi Sambal,hewani,100,223.53,16.9
+241,Abon Sapi Sambal,hewani,200,389.85,37.68
+241,Abon Sapi Sambal,hewani,300,879.14,77.99
+242,Paru Sapi Bakar,hewani,100,180.51,24.83
+242,Paru Sapi Bakar,hewani,200,377.72,54.4
+242,Paru Sapi Bakar,hewani,300,785.79,87.45
+243,Susu Kambing Kuah,hewani,100,201.12,24.92
+243,Susu Kambing Kuah,hewani,200,596.19,56.62
+243,Susu Kambing Kuah,hewani,300,845.84,48.35
+244,Bakso Sapi Sambal,hewani,100,174.17,21.85
+244,Bakso Sapi Sambal,hewani,200,310.41,42.32
+244,Bakso Sapi Sambal,hewani,300,578.92,67.94
+245,Sate Padang Kuah,hewani,100,211.67,17.93
+245,Sate Padang Kuah,hewani,200,443.38,59.78
+245,Sate Padang Kuah,hewani,300,764.37,64.06
+246,Tongseng Kecap,hewani,100,150.35,23.94
+246,Tongseng Kecap,hewani,200,513.76,48.41
+246,Tongseng Kecap,hewani,300,570.04,78.02
+247,Telur Puyuh Tumis,hewani,100,194.25,24.69
+247,Telur Puyuh Tumis,hewani,200,495.85,48.77
+247,Telur Puyuh Tumis,hewani,300,772.96,52.13
+248,Susu Sapi Kecap,hewani,100,173.58,23.77
+248,Susu Sapi Kecap,hewani,200,587.52,52.46
+248,Susu Sapi Kecap,hewani,300,550.43,68.2
+249,Bakso Sapi Balado,hewani,100,209.3,26.81
+249,Bakso Sapi Balado,hewani,200,469.53,43.12
+249,Bakso Sapi Balado,hewani,300,820.42,80.28
+250,Ayam Kampung Rebus,hewani,100,251.29,26.41
+250,Ayam Kampung Rebus,hewani,200,445.87,52.11
+250,Ayam Kampung Rebus,hewani,300,840.62,68.38
+251,Empal Gepuk Bakar,hewani,100,283.94,25.53
+251,Empal Gepuk Bakar,hewani,200,425.06,52.18
+251,Empal Gepuk Bakar,hewani,300,469.1,85.01
+252,Sop Buntut Rebus,hewani,100,242.3,25.45
+252,Sop Buntut Rebus,hewani,200,550.31,57.64
+252,Sop Buntut Rebus,hewani,300,869.94,79.93
+253,Kepiting Kuah,hewani,100,205.86,26.77
+253,Kepiting Kuah,hewani,200,511.08,55.42
+253,Kepiting Kuah,hewani,300,577.42,49.26
+254,Abon Sapi Kecap,hewani,100,162.03,22.19
+254,Abon Sapi Kecap,hewani,200,456.5,49.11
+254,Abon Sapi Kecap,hewani,300,626.56,48.28
+255,Ikan Bandeng Rebus,hewani,100,178.83,28.9
+255,Ikan Bandeng Rebus,hewani,200,465.39,59.46
+255,Ikan Bandeng Rebus,hewani,300,878.33,67.4
+256,Susu Kambing Goreng,hewani,100,248.32,15.49
+256,Susu Kambing Goreng,hewani,200,414.56,46.86
+256,Susu Kambing Goreng,hewani,300,564.23,89.96
+257,Tongseng Rebus,hewani,100,227.96,18.39
+257,Tongseng Rebus,hewani,200,466.23,50.16
+257,Tongseng Rebus,hewani,300,837.44,88.71
+258,Telur Puyuh Goreng,hewani,100,188.74,18.37
+258,Telur Puyuh Goreng,hewani,200,461.85,44.17
+258,Telur Puyuh Goreng,hewani,300,632.06,54.03
+259,Sop Buntut Goreng,hewani,100,205.61,29.93
+259,Sop Buntut Goreng,hewani,200,358.84,30.71
+259,Sop Buntut Goreng,hewani,300,862.02,82.41
+260,Ayam Penyet Kuah,hewani,100,162.12,21.38
+260,Ayam Penyet Kuah,hewani,200,530.8,59.38
+260,Ayam Penyet Kuah,hewani,300,751.56,75.5
+261,Susu Sapi Tumis,hewani,100,281.92,27.72
+261,Susu Sapi Tumis,hewani,200,411.1,59.91
+261,Susu Sapi Tumis,hewani,300,745.32,53.14
+262,Ayam Goreng Balado,hewani,100,250.05,22.22
+262,Ayam Goreng Balado,hewani,200,348.84,31.24
+262,Ayam Goreng Balado,hewani,300,460.18,48.41
+263,Ayam Goreng Tumis,hewani,100,215.01,25.65
+263,Ayam Goreng Tumis,hewani,200,391.74,50.57
+263,Ayam Goreng Tumis,hewani,300,862.85,77.22
+264,Telur Bebek Kecap,hewani,100,191.68,15.53
+264,Telur Bebek Kecap,hewani,200,356.42,35.46
+264,Telur Bebek Kecap,hewani,300,701.88,81.02
+265,Pepes Ikan Rebus,hewani,100,298.84,18.69
+265,Pepes Ikan Rebus,hewani,200,552.03,33.02
+265,Pepes Ikan Rebus,hewani,300,609.0,49.63
+266,Ayam Geprek Balado,hewani,100,179.76,28.96
+266,Ayam Geprek Balado,hewani,200,385.4,42.4
+266,Ayam Geprek Balado,hewani,300,613.8,68.25
+267,Ikan Lele Rebus,hewani,100,210.34,16.2
+267,Ikan Lele Rebus,hewani,200,589.92,53.59
+267,Ikan Lele Rebus,hewani,300,628.68,75.29
+268,Kerang Saus Padang Bakar,hewani,100,171.45,22.78
+268,Kerang Saus Padang Bakar,hewani,200,357.76,38.32
+268,Kerang Saus Padang Bakar,hewani,300,809.33,66.74
+269,Kerang Dara Kecap,hewani,100,259.56,28.05
+269,Kerang Dara Kecap,hewani,200,554.49,56.51
+269,Kerang Dara Kecap,hewani,300,830.52,85.85
+270,Hati Ayam Kuah,hewani,100,277.89,26.69
+270,Hati Ayam Kuah,hewani,200,384.29,46.55
+270,Hati Ayam Kuah,hewani,300,636.15,83.34
+271,Semur Daging Bakar,hewani,100,159.16,17.03
+271,Semur Daging Bakar,hewani,200,510.77,58.44
+271,Semur Daging Bakar,hewani,300,729.49,73.65
+272,Ikan Lele Balado,hewani,100,222.96,22.16
+272,Ikan Lele Balado,hewani,200,382.22,44.71
+272,Ikan Lele Balado,hewani,300,467.07,49.32
+273,Ikan Bakar Sambal,hewani,100,226.88,18.53
+273,Ikan Bakar Sambal,hewani,200,512.44,51.09
+273,Ikan Bakar Sambal,hewani,300,787.6,59.24
+274,Telur Bebek Balado,hewani,100,222.66,15.42
+274,Telur Bebek Balado,hewani,200,346.33,48.54
+274,Telur Bebek Balado,hewani,300,805.56,82.47
+275,Udang Sambal,hewani,100,266.08,20.6
+275,Udang Sambal,hewani,200,444.83,57.5
+275,Udang Sambal,hewani,300,552.91,72.09
+276,Ayam Geprek Bakar,hewani,100,162.86,26.51
+276,Ayam Geprek Bakar,hewani,200,391.07,53.07
+276,Ayam Geprek Bakar,hewani,300,715.56,79.91
+277,Sop Buntut Kuah,hewani,100,201.91,18.79
+277,Sop Buntut Kuah,hewani,200,325.66,59.33
+277,Sop Buntut Kuah,hewani,300,765.67,65.99
+278,Ikan Teri Balado,hewani,100,210.29,28.06
+278,Ikan Teri Balado,hewani,200,580.01,55.53
+278,Ikan Teri Balado,hewani,300,720.14,71.98
+279,Ayam Goreng Sambal,hewani,100,194.29,17.99
+279,Ayam Goreng Sambal,hewani,200,510.11,48.49
+279,Ayam Goreng Sambal,hewani,300,508.19,57.31
+280,Telur Bebek Rebus,hewani,100,228.38,24.42
+280,Telur Bebek Rebus,hewani,200,420.8,38.45
+280,Telur Bebek Rebus,hewani,300,850.48,82.99
+281,Rendang Rebus,hewani,100,272.87,23.31
+281,Rendang Rebus,hewani,200,413.99,56.97
+281,Rendang Rebus,hewani,300,514.48,87.55
+282,Semur Daging Goreng,hewani,100,255.13,18.87
+282,Semur Daging Goreng,hewani,200,536.42,34.98
+282,Semur Daging Goreng,hewani,300,504.04,65.52
+283,Pepes Ikan Goreng,hewani,100,166.58,18.96
+283,Pepes Ikan Goreng,hewani,200,327.21,53.5
+283,Pepes Ikan Goreng,hewani,300,657.93,63.32
+284,Telur Ayam Bakar,hewani,100,225.92,21.17
+284,Telur Ayam Bakar,hewani,200,567.56,38.61
+284,Telur Ayam Bakar,hewani,300,807.16,67.46
+285,Ikan Gurame Kecap,hewani,100,213.86,19.03
+285,Ikan Gurame Kecap,hewani,200,441.08,49.14
+285,Ikan Gurame Kecap,hewani,300,656.66,68.12
+286,Sate Padang Kecap,hewani,100,216.37,24.74
+286,Sate Padang Kecap,hewani,200,397.94,48.69
+286,Sate Padang Kecap,hewani,300,788.37,67.4
+287,Ayam Broiler Bakar,hewani,100,226.54,29.3
+287,Ayam Broiler Bakar,hewani,200,417.3,42.98
+287,Ayam Broiler Bakar,hewani,300,521.31,51.33
+288,Hati Ayam Kecap,hewani,100,169.44,22.67
+288,Hati Ayam Kecap,hewani,200,416.75,33.59
+288,Hati Ayam Kecap,hewani,300,768.26,51.11
+289,Telur Dadar Padang Sambal,hewani,100,273.57,20.73
+289,Telur Dadar Padang Sambal,hewani,200,406.1,54.75
+289,Telur Dadar Padang Sambal,hewani,300,626.15,75.75
+290,Empal Gepuk Kuah,hewani,100,165.61,28.26
+290,Empal Gepuk Kuah,hewani,200,550.77,46.76
+290,Empal Gepuk Kuah,hewani,300,623.97,74.54
+291,Telur Bebek Bakar,hewani,100,171.1,29.01
+291,Telur Bebek Bakar,hewani,200,428.13,32.63
+291,Telur Bebek Bakar,hewani,300,708.2,78.19
+292,Ikan Asin Jambal Kecap,hewani,100,235.53,27.29
+292,Ikan Asin Jambal Kecap,hewani,200,490.13,45.57
+292,Ikan Asin Jambal Kecap,hewani,300,647.33,83.6
+293,Daging Sapi Tumis,hewani,100,186.36,17.89
+293,Daging Sapi Tumis,hewani,200,487.54,30.18
+293,Daging Sapi Tumis,hewani,300,474.28,58.52
+294,Ayam Bakar Rebus,hewani,100,294.98,18.84
+294,Ayam Bakar Rebus,hewani,200,578.16,33.14
+294,Ayam Bakar Rebus,hewani,300,787.77,73.3
+295,Ikan Gurame Sambal,hewani,100,272.62,20.79
+295,Ikan Gurame Sambal,hewani,200,538.05,34.18
+295,Ikan Gurame Sambal,hewani,300,656.67,46.77
+296,Ikan Bakar Rebus,hewani,100,163.26,17.67
+296,Ikan Bakar Rebus,hewani,200,381.37,42.74
+296,Ikan Bakar Rebus,hewani,300,561.51,81.29
+297,Pindang Patin Kecap,hewani,100,269.14,24.06
+297,Pindang Patin Kecap,hewani,200,501.06,50.01
+297,Pindang Patin Kecap,hewani,300,483.52,51.12
+298,Kerang Dara Balado,hewani,100,211.04,18.85
+298,Kerang Dara Balado,hewani,200,345.33,48.48
+298,Kerang Dara Balado,hewani,300,704.59,77.51
+299,Susu Sapi Goreng,hewani,100,219.96,22.39
+299,Susu Sapi Goreng,hewani,200,518.56,52.68
+299,Susu Sapi Goreng,hewani,300,808.29,59.4
+300,Susu Kambing Rebus,hewani,100,275.12,26.39
+300,Susu Kambing Rebus,hewani,200,531.4,56.05
+300,Susu Kambing Rebus,hewani,300,684.75,81.88
+301,Telur Dadar Padang Balado,hewani,100,181.23,28.02
+301,Telur Dadar Padang Balado,hewani,200,545.76,51.84
+301,Telur Dadar Padang Balado,hewani,300,506.81,62.36
+302,Ikan Bakar Goreng,hewani,100,220.13,17.3
+302,Ikan Bakar Goreng,hewani,200,471.84,35.48
+302,Ikan Bakar Goreng,hewani,300,893.2,72.4
+303,Sate Ayam Sambal,hewani,100,154.35,26.3
+303,Sate Ayam Sambal,hewani,200,500.78,57.69
+303,Sate Ayam Sambal,hewani,300,573.2,70.35
+304,Ayam Broiler Sambal,hewani,100,155.46,22.04
+304,Ayam Broiler Sambal,hewani,200,560.17,31.38
+304,Ayam Broiler Sambal,hewani,300,461.31,59.75
+305,Ikan Mujair Goreng,hewani,100,167.1,27.77
+305,Ikan Mujair Goreng,hewani,200,575.43,47.66
+305,Ikan Mujair Goreng,hewani,300,715.19,61.01
+306,Ikan Asin Jambal Goreng,hewani,100,179.4,20.75
+306,Ikan Asin Jambal Goreng,hewani,200,305.53,37.28
+306,Ikan Asin Jambal Goreng,hewani,300,838.47,66.5
+307,Soto Betawi Bakar,hewani,100,279.43,20.83
+307,Soto Betawi Bakar,hewani,200,504.85,50.27
+307,Soto Betawi Bakar,hewani,300,882.48,82.81
+308,Ikan Teri Sambal,hewani,100,254.51,28.61
+308,Ikan Teri Sambal,hewani,200,451.17,40.77
+308,Ikan Teri Sambal,hewani,300,532.86,65.84
+309,Telur Puyuh Kuah,hewani,100,283.04,24.72
+309,Telur Puyuh Kuah,hewani,200,521.32,35.55
+309,Telur Puyuh Kuah,hewani,300,626.76,75.38
+310,Opor Ayam Kuah,hewani,100,159.26,16.98
+310,Opor Ayam Kuah,hewani,200,482.3,50.25
+310,Opor Ayam Kuah,hewani,300,530.36,67.63
+311,Pindang Patin Bakar,hewani,100,265.63,28.0
+311,Pindang Patin Bakar,hewani,200,501.61,56.75
+311,Pindang Patin Bakar,hewani,300,854.15,83.23
+312,Empal Gepuk Sambal,hewani,100,164.55,28.81
+312,Empal Gepuk Sambal,hewani,200,380.66,39.17
+312,Empal Gepuk Sambal,hewani,300,479.33,58.27
+313,Ikan Teri Goreng,hewani,100,270.61,18.41
+313,Ikan Teri Goreng,hewani,200,400.39,54.83
+313,Ikan Teri Goreng,hewani,300,680.79,61.04
+314,Pepes Ikan Balado,hewani,100,236.24,19.23
+314,Pepes Ikan Balado,hewani,200,422.99,41.55
+314,Pepes Ikan Balado,hewani,300,827.05,80.89
+315,Udang Bakar,hewani,100,227.25,23.19
+315,Udang Bakar,hewani,200,359.93,43.09
+315,Udang Bakar,hewani,300,649.9,45.5
+316,Telur Dadar Padang Kuah,hewani,100,173.6,28.56
+316,Telur Dadar Padang Kuah,hewani,200,582.18,41.8
+316,Telur Dadar Padang Kuah,hewani,300,770.23,60.57
+317,Rendang Goreng,hewani,100,236.85,18.69
+317,Rendang Goreng,hewani,200,340.09,30.4
+317,Rendang Goreng,hewani,300,455.52,87.57
+318,Abon Sapi Tumis,hewani,100,158.04,19.77
+318,Abon Sapi Tumis,hewani,200,531.69,58.32
+318,Abon Sapi Tumis,hewani,300,540.56,62.15
+319,Ayam Broiler Tumis,hewani,100,295.22,22.66
+319,Ayam Broiler Tumis,hewani,200,405.42,31.77
+319,Ayam Broiler Tumis,hewani,300,661.66,86.76
+320,Abon Sapi Bakar,hewani,100,245.9,21.3
+320,Abon Sapi Bakar,hewani,200,333.14,45.04
+320,Abon Sapi Bakar,hewani,300,805.92,73.73
+321,Bakso Sapi Bakar,hewani,100,203.84,26.17
+321,Bakso Sapi Bakar,hewani,200,486.37,38.32
+321,Bakso Sapi Bakar,hewani,300,604.06,61.62
+322,Ikan Bakar Kecap,hewani,100,248.43,21.58
+322,Ikan Bakar Kecap,hewani,200,409.5,49.2
+322,Ikan Bakar Kecap,hewani,300,721.79,68.61
+323,Hati Ayam Balado,hewani,100,267.48,23.27
+323,Hati Ayam Balado,hewani,200,365.16,48.14
+323,Hati Ayam Balado,hewani,300,736.51,64.07
+324,Cumi Kecap,hewani,100,169.42,18.71
+324,Cumi Kecap,hewani,200,552.86,54.55
+324,Cumi Kecap,hewani,300,846.64,64.5
+325,Bakso Sapi Goreng,hewani,100,234.23,24.23
+325,Bakso Sapi Goreng,hewani,200,452.87,41.21
+325,Bakso Sapi Goreng,hewani,300,696.59,68.01
+326,Ikan Bandeng Kuah,hewani,100,208.42,28.58
+326,Ikan Bandeng Kuah,hewani,200,371.69,41.61
+326,Ikan Bandeng Kuah,hewani,300,892.96,74.16
+327,Ayam Broiler Rebus,hewani,100,164.18,21.7
+327,Ayam Broiler Rebus,hewani,200,426.03,35.04
+327,Ayam Broiler Rebus,hewani,300,586.52,87.08
+328,Cumi Goreng Tepung Kecap,hewani,100,175.25,29.33
+328,Cumi Goreng Tepung Kecap,hewani,200,526.38,31.04
+328,Cumi Goreng Tepung Kecap,hewani,300,848.53,62.13
+329,Cumi Goreng Tepung Kuah,hewani,100,174.71,21.76
+329,Cumi Goreng Tepung Kuah,hewani,200,555.03,52.87
+329,Cumi Goreng Tepung Kuah,hewani,300,686.68,50.15
+330,Ayam Geprek Sambal,hewani,100,257.64,25.48
+330,Ayam Geprek Sambal,hewani,200,491.15,48.86
+330,Ayam Geprek Sambal,hewani,300,468.89,60.81
+331,Telur Puyuh Bakar,hewani,100,290.44,16.63
+331,Telur Puyuh Bakar,hewani,200,348.57,46.93
+331,Telur Puyuh Bakar,hewani,300,755.43,89.33
+332,Kerang Hijau Tumis,hewani,100,241.53,22.23
+332,Kerang Hijau Tumis,hewani,200,586.29,42.1
+332,Kerang Hijau Tumis,hewani,300,468.69,86.29
+333,Ikan Bakar Balado,hewani,100,249.96,19.41
+333,Ikan Bakar Balado,hewani,200,567.97,44.68
+333,Ikan Bakar Balado,hewani,300,844.05,69.88
+334,Ayam Penyet Sambal,hewani,100,224.59,18.04
+334,Ayam Penyet Sambal,hewani,200,360.36,56.03
+334,Ayam Penyet Sambal,hewani,300,688.61,46.83
+335,Ikan Teri Bakar,hewani,100,236.48,26.69
+335,Ikan Teri Bakar,hewani,200,320.38,46.35
+335,Ikan Teri Bakar,hewani,300,565.93,80.27
+336,Soto Ayam Kecap,hewani,100,191.59,21.29
+336,Soto Ayam Kecap,hewani,200,502.62,40.97
+336,Soto Ayam Kecap,hewani,300,634.25,63.02
+337,Opor Ayam Goreng,hewani,100,259.44,27.42
+337,Opor Ayam Goreng,hewani,200,440.77,40.38
+337,Opor Ayam Goreng,hewani,300,690.28,57.7
+338,Ayam Bakar Goreng,hewani,100,171.53,19.14
+338,Ayam Bakar Goreng,hewani,200,503.21,30.68
+338,Ayam Bakar Goreng,hewani,300,513.95,82.58
+339,Ikan Mujair Sambal,hewani,100,284.63,23.41
+339,Ikan Mujair Sambal,hewani,200,378.22,35.26
+339,Ikan Mujair Sambal,hewani,300,530.09,76.62
+340,Ikan Teri Kecap,hewani,100,159.07,19.87
+340,Ikan Teri Kecap,hewani,200,427.27,49.61
+340,Ikan Teri Kecap,hewani,300,598.34,63.29
+341,Semur Daging Sambal,hewani,100,206.87,15.79
+341,Semur Daging Sambal,hewani,200,315.79,49.4
+341,Semur Daging Sambal,hewani,300,898.64,53.75
+342,Ikan Patin Kecap,hewani,100,255.95,15.4
+342,Ikan Patin Kecap,hewani,200,539.68,37.7
+342,Ikan Patin Kecap,hewani,300,496.23,68.22
+343,Ikan Bandeng Tumis,hewani,100,299.06,29.86
+343,Ikan Bandeng Tumis,hewani,200,580.8,43.35
+343,Ikan Bandeng Tumis,hewani,300,768.81,79.61
+344,Ikan Tongkol Bakar,hewani,100,191.86,23.4
+344,Ikan Tongkol Bakar,hewani,200,403.4,41.43
+344,Ikan Tongkol Bakar,hewani,300,762.2,61.0
+345,Ikan Teri Kuah,hewani,100,177.22,17.26
+345,Ikan Teri Kuah,hewani,200,444.18,57.0
+345,Ikan Teri Kuah,hewani,300,807.05,61.92
+346,Soto Ayam Rebus,hewani,100,248.1,20.59
+346,Soto Ayam Rebus,hewani,200,397.37,58.13
+346,Soto Ayam Rebus,hewani,300,726.27,47.96
+347,Soto Betawi Rebus,hewani,100,193.56,16.61
+347,Soto Betawi Rebus,hewani,200,462.42,44.55
+347,Soto Betawi Rebus,hewani,300,570.01,88.03
+348,Soto Betawi Balado,hewani,100,236.08,24.86
+348,Soto Betawi Balado,hewani,200,414.07,37.02
+348,Soto Betawi Balado,hewani,300,692.26,53.3
+349,Telur Bebek Goreng,hewani,100,196.68,19.67
+349,Telur Bebek Goreng,hewani,200,423.06,42.8
+349,Telur Bebek Goreng,hewani,300,810.84,51.69
+350,Ikan Patin Rebus,hewani,100,212.01,29.22
+350,Ikan Patin Rebus,hewani,200,361.86,58.08
+350,Ikan Patin Rebus,hewani,300,475.34,84.09
+351,Ayam Broiler Kecap,hewani,100,156.26,27.86
+351,Ayam Broiler Kecap,hewani,200,544.25,45.57
+351,Ayam Broiler Kecap,hewani,300,750.25,89.77
+352,Ayam Broiler Balado,hewani,100,182.65,21.45
+352,Ayam Broiler Balado,hewani,200,324.93,55.27
+352,Ayam Broiler Balado,hewani,300,860.96,81.01
+353,Hati Ayam Goreng,hewani,100,203.82,15.47
+353,Hati Ayam Goreng,hewani,200,406.71,37.57
+353,Hati Ayam Goreng,hewani,300,808.86,63.98
+354,Telur Dadar Padang Tumis,hewani,100,257.95,22.21
+354,Telur Dadar Padang Tumis,hewani,200,495.3,42.09
+354,Telur Dadar Padang Tumis,hewani,300,671.65,81.03
+355,Telur Dadar Padang Bakar,hewani,100,193.35,22.51
+355,Telur Dadar Padang Bakar,hewani,200,412.73,57.58
+355,Telur Dadar Padang Bakar,hewani,300,824.98,83.85
+356,Ikan Tongkol Rebus,hewani,100,292.91,17.97
+356,Ikan Tongkol Rebus,hewani,200,446.74,43.37
+356,Ikan Tongkol Rebus,hewani,300,687.08,83.3
+357,Paru Sapi Tumis,hewani,100,194.5,27.89
+357,Paru Sapi Tumis,hewani,200,576.8,39.05
+357,Paru Sapi Tumis,hewani,300,487.69,52.88
+358,Ayam Taliwang Goreng,hewani,100,265.99,16.94
+358,Ayam Taliwang Goreng,hewani,200,381.8,58.29
+358,Ayam Taliwang Goreng,hewani,300,859.41,83.22
+359,Daging Kambing Rebus,hewani,100,299.41,15.59
+359,Daging Kambing Rebus,hewani,200,475.45,50.06
+359,Daging Kambing Rebus,hewani,300,699.14,63.2
+360,Hati Ayam Sambal,hewani,100,181.73,29.22
+360,Hati Ayam Sambal,hewani,200,319.21,45.85
+360,Hati Ayam Sambal,hewani,300,487.7,77.69
+361,Ikan Nila Kecap,hewani,100,299.95,23.46
+361,Ikan Nila Kecap,hewani,200,498.23,46.99
+361,Ikan Nila Kecap,hewani,300,701.14,61.08
+362,Susu Sapi Bakar,hewani,100,157.39,26.92
+362,Susu Sapi Bakar,hewani,200,573.36,52.01
+362,Susu Sapi Bakar,hewani,300,867.73,68.68
+363,Ikan Nila Kuah,hewani,100,267.74,29.23
+363,Ikan Nila Kuah,hewani,200,480.82,34.07
+363,Ikan Nila Kuah,hewani,300,690.56,89.98
+364,Telur Ayam Sambal,hewani,100,179.35,22.01
+364,Telur Ayam Sambal,hewani,200,535.0,52.39
+364,Telur Ayam Sambal,hewani,300,592.37,83.97
+365,Gulai Kambing Kuah,hewani,100,186.12,20.46
+365,Gulai Kambing Kuah,hewani,200,442.76,35.02
+365,Gulai Kambing Kuah,hewani,300,456.31,87.49
+366,Telur Puyuh Sambal,hewani,100,266.99,28.93
+366,Telur Puyuh Sambal,hewani,200,359.03,36.08
+366,Telur Puyuh Sambal,hewani,300,661.79,87.41
+367,Gulai Kambing Kecap,hewani,100,180.16,24.84
+367,Gulai Kambing Kecap,hewani,200,562.93,33.71
+367,Gulai Kambing Kecap,hewani,300,738.59,54.09
+368,Empal Gepuk Balado,hewani,100,157.96,22.51
+368,Empal Gepuk Balado,hewani,200,334.35,42.03
+368,Empal Gepuk Balado,hewani,300,450.01,82.42
+369,Abon Sapi Balado,hewani,100,283.73,25.92
+369,Abon Sapi Balado,hewani,200,396.76,36.88
+369,Abon Sapi Balado,hewani,300,454.83,49.33
+370,Udang Rebus,hewani,100,199.81,17.67
+370,Udang Rebus,hewani,200,398.23,54.03
+370,Udang Rebus,hewani,300,874.47,85.19
+371,Udang Balado Tumis,hewani,100,290.48,26.96
+371,Udang Balado Tumis,hewani,200,508.41,59.78
+371,Udang Balado Tumis,hewani,300,809.64,61.16
+372,Telur Balado Goreng,hewani,100,262.26,15.07
+372,Telur Balado Goreng,hewani,200,421.28,51.22
+372,Telur Balado Goreng,hewani,300,779.29,89.6
+373,Ikan Gurame Bakar,hewani,100,295.76,15.18
+373,Ikan Gurame Bakar,hewani,200,467.61,52.8
+373,Ikan Gurame Bakar,hewani,300,799.87,58.02
+374,Ikan Gurame Kuah,hewani,100,199.3,29.42
+374,Ikan Gurame Kuah,hewani,200,573.38,55.37
+374,Ikan Gurame Kuah,hewani,300,876.64,49.13
+375,Semur Daging Kuah,hewani,100,229.66,27.17
+375,Semur Daging Kuah,hewani,200,543.62,44.47
+375,Semur Daging Kuah,hewani,300,532.5,62.08
+376,Gulai Kambing Bakar,hewani,100,177.62,28.9
+376,Gulai Kambing Bakar,hewani,200,464.85,51.18
+376,Gulai Kambing Bakar,hewani,300,626.46,59.11
+377,Kerang Hijau Kuah,hewani,100,195.84,20.91
+377,Kerang Hijau Kuah,hewani,200,588.78,45.23
+377,Kerang Hijau Kuah,hewani,300,467.45,73.07
+378,Tongseng Balado,hewani,100,172.49,24.56
+378,Tongseng Balado,hewani,200,519.18,49.94
+378,Tongseng Balado,hewani,300,468.02,56.63
+379,Telur Ayam Balado,hewani,100,273.33,17.17
+379,Telur Ayam Balado,hewani,200,523.95,40.15
+379,Telur Ayam Balado,hewani,300,878.06,69.61
+380,Ayam Kampung Sambal,hewani,100,248.01,20.72
+380,Ayam Kampung Sambal,hewani,200,359.18,46.44
+380,Ayam Kampung Sambal,hewani,300,580.78,83.08
+381,Sop Buntut Balado,hewani,100,229.09,21.68
+381,Sop Buntut Balado,hewani,200,415.95,35.89
+381,Sop Buntut Balado,hewani,300,860.91,71.13
+382,Pindang Patin Goreng,hewani,100,176.65,26.08
+382,Pindang Patin Goreng,hewani,200,525.37,57.61
+382,Pindang Patin Goreng,hewani,300,895.8,55.54
+383,Gulai Kambing Goreng,hewani,100,260.94,21.72
+383,Gulai Kambing Goreng,hewani,200,438.43,39.78
+383,Gulai Kambing Goreng,hewani,300,756.42,71.99
+384,Telur Balado Rebus,hewani,100,175.99,29.49
+384,Telur Balado Rebus,hewani,200,543.3,43.3
+384,Telur Balado Rebus,hewani,300,754.76,54.61
+385,Ikan Lele Kecap,hewani,100,156.09,28.81
+385,Ikan Lele Kecap,hewani,200,508.52,51.41
+385,Ikan Lele Kecap,hewani,300,619.15,85.76
+386,Ikan Bandeng Goreng,hewani,100,196.89,25.33
+386,Ikan Bandeng Goreng,hewani,200,533.02,33.8
+386,Ikan Bandeng Goreng,hewani,300,523.28,72.76
+387,Ikan Asin Jambal Bakar,hewani,100,216.3,25.34
+387,Ikan Asin Jambal Bakar,hewani,200,579.21,57.9
+387,Ikan Asin Jambal Bakar,hewani,300,574.13,74.66
+388,Ikan Patin Bakar,hewani,100,218.69,28.45
+388,Ikan Patin Bakar,hewani,200,464.58,49.02
+388,Ikan Patin Bakar,hewani,300,578.98,62.43
+389,Kepiting Kecap,hewani,100,238.62,21.26
+389,Kepiting Kecap,hewani,200,303.72,45.75
+389,Kepiting Kecap,hewani,300,744.36,76.67
+390,Telur Balado Kecap,hewani,100,163.7,16.46
+390,Telur Balado Kecap,hewani,200,353.21,49.35
+390,Telur Balado Kecap,hewani,300,581.02,49.01
+391,Ikan Nila Sambal,hewani,100,241.28,19.18
+391,Ikan Nila Sambal,hewani,200,371.73,45.72
+391,Ikan Nila Sambal,hewani,300,853.4,58.21
+392,Telur Bebek Sambal,hewani,100,208.44,23.2
+392,Telur Bebek Sambal,hewani,200,356.89,54.01
+392,Telur Bebek Sambal,hewani,300,615.29,72.88
+393,Gulai Kambing Tumis,hewani,100,239.97,29.51
+393,Gulai Kambing Tumis,hewani,200,438.2,30.95
+393,Gulai Kambing Tumis,hewani,300,704.12,72.06
+394,Semur Daging Kecap,hewani,100,238.63,21.33
+394,Semur Daging Kecap,hewani,200,419.18,39.94
+394,Semur Daging Kecap,hewani,300,589.92,71.4
+395,Ikan Mujair Kecap,hewani,100,270.3,22.07
+395,Ikan Mujair Kecap,hewani,200,460.27,53.97
+395,Ikan Mujair Kecap,hewani,300,700.78,55.31
+396,Ayam Goreng Bakar,hewani,100,170.12,22.65
+396,Ayam Goreng Bakar,hewani,200,367.01,34.06
+396,Ayam Goreng Bakar,hewani,300,516.6,82.3
+397,Telur Balado Sambal,hewani,100,209.8,17.23
+397,Telur Balado Sambal,hewani,200,582.71,57.55
+397,Telur Balado Sambal,hewani,300,560.92,58.01
+398,Ikan Tongkol Balado,hewani,100,263.71,19.13
+398,Ikan Tongkol Balado,hewani,200,551.24,41.26
+398,Ikan Tongkol Balado,hewani,300,826.8,63.62
+399,Kerang Saus Padang Balado,hewani,100,195.37,26.95
+399,Kerang Saus Padang Balado,hewani,200,548.45,48.14
+399,Kerang Saus Padang Balado,hewani,300,846.9,59.11
+400,Bakso Sapi Kuah,hewani,100,246.01,27.88
+400,Bakso Sapi Kuah,hewani,200,566.2,31.5
+400,Bakso Sapi Kuah,hewani,300,615.9,74.85
+401,Ikan Mujair Balado,hewani,100,255.28,17.29
+401,Ikan Mujair Balado,hewani,200,370.23,52.7
+401,Ikan Mujair Balado,hewani,300,523.5,82.05
+402,Kerang Hijau Rebus,hewani,100,243.89,17.95
+402,Kerang Hijau Rebus,hewani,200,498.95,49.24
+402,Kerang Hijau Rebus,hewani,300,502.03,88.58
+403,Udang Kecap,hewani,100,158.18,26.94
+403,Udang Kecap,hewani,200,587.75,46.37
+403,Udang Kecap,hewani,300,878.02,74.64
+404,Ikan Patin Kuah,hewani,100,297.08,24.09
+404,Ikan Patin Kuah,hewani,200,510.31,30.98
+404,Ikan Patin Kuah,hewani,300,503.75,65.46
+405,Daging Sapi Kecap,hewani,100,225.64,19.35
+405,Daging Sapi Kecap,hewani,200,360.98,44.98
+405,Daging Sapi Kecap,hewani,300,488.09,74.13
+406,Sop Buntut Kecap,hewani,100,214.19,15.17
+406,Sop Buntut Kecap,hewani,200,549.27,36.25
+406,Sop Buntut Kecap,hewani,300,893.97,62.9
+407,Susu Kambing Kecap,hewani,100,235.92,19.29
+407,Susu Kambing Kecap,hewani,200,355.03,46.96
+407,Susu Kambing Kecap,hewani,300,877.28,80.23
+408,Soto Betawi Goreng,hewani,100,174.86,15.12
+408,Soto Betawi Goreng,hewani,200,366.57,46.22
+408,Soto Betawi Goreng,hewani,300,644.48,65.76

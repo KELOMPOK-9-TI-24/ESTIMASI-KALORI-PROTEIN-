@@ -1,0 +1,1 @@
+print("Kategori:", le_kategori.classes_)
